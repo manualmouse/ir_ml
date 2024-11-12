@@ -1,0 +1,232 @@
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    10    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_10_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP531_0    FP817_0    ExtFP681_0    ExtFP929_0    FP430_1    FP843_1    ExtFP9_1    FP860_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    20    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_20_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP89_0    FP319_0    FP531_0    FP817_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP430_1    FP634_1    FP843_1    ExtFP9_1    ExtFP827_1    ExtFP943_1    FP860_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    30    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_30_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP81_0    FP89_0    FP245_0    FP319_0    FP531_0    FP632_0    FP817_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP105_1    FP430_1    FP634_1    FP843_1    ExtFP9_1    ExtFP512_1    ExtFP827_1    ExtFP943_1    FP567_2    FP860_2    ExtFP81_2    ExtFP910_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    40    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_40_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP74_0    FP81_0    FP89_0    FP245_0    FP319_0    FP531_0    FP632_0    FP817_0    ExtFP196_0    ExtFP591_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP105_1    FP115_1    FP304_1    FP430_1    FP634_1    FP843_1    ExtFP9_1    ExtFP512_1    ExtFP827_1    ExtFP943_1    FP91_2    FP353_2    FP567_2    FP860_2    FP915_2    ExtFP4_2    ExtFP81_2    ExtFP910_2    ExtFP920_2    ExtFP977_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    55    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_55_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP74_0    FP81_0    FP89_0    FP245_0    FP319_0    FP531_0    FP609_0    FP632_0    FP734_0    FP743_0    FP817_0    ExtFP118_0    ExtFP196_0    ExtFP214_0    ExtFP591_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP105_1    FP115_1    FP237_1    FP304_1    FP430_1    FP634_1    FP755_1    FP843_1    ExtFP9_1    ExtFP512_1    ExtFP634_1    ExtFP826_1    ExtFP827_1    ExtFP836_1    ExtFP943_1    FP91_2    FP353_2    FP567_2    FP860_2    FP915_2    ExtFP4_2    ExtFP81_2    ExtFP910_2    ExtFP920_2    ExtFP977_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    60    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_60_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP74_0    FP81_0    FP89_0    FP151_0    FP245_0    FP319_0    FP353_0    FP486_0    FP531_0    FP599_0    FP609_0    FP632_0    FP734_0    FP743_0    FP817_0    FP952_0    ExtFP118_0    ExtFP196_0    ExtFP214_0    ExtFP591_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP47_1    FP105_1    FP115_1    FP217_1    FP237_1    FP304_1    FP367_1    FP430_1    FP584_1    FP634_1    FP755_1    FP843_1    ExtFP9_1    ExtFP426_1    ExtFP512_1    ExtFP634_1    ExtFP826_1    ExtFP827_1    ExtFP836_1    ExtFP943_1    FP64_2    FP65_2    FP91_2    FP353_2    FP567_2    FP860_2    FP915_2    ExtFP4_2    ExtFP18_2    ExtFP81_2    ExtFP910_2    ExtFP920_2    ExtFP977_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    70    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_70_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP74_0    FP81_0    FP89_0    FP151_0    FP245_0    FP319_0    FP353_0    FP486_0    FP531_0    FP544_0    FP599_0    FP609_0    FP632_0    FP676_0    FP734_0    FP743_0    FP817_0    FP874_0    FP952_0    ExtFP118_0    ExtFP196_0    ExtFP214_0    ExtFP591_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP47_1    FP105_1    FP115_1    FP217_1    FP237_1    FP304_1    FP367_1    FP430_1    FP584_1    FP634_1    FP755_1    FP843_1    ExtFP9_1    ExtFP426_1    ExtFP512_1    ExtFP634_1    ExtFP826_1    ExtFP827_1    ExtFP836_1    ExtFP943_1    FP64_2    FP65_2    FP91_2    FP295_2    FP353_2    FP550_2    FP567_2    FP743_2    FP760_2    FP860_2    FP915_2    ExtFP4_2    ExtFP18_2    ExtFP81_2    ExtFP330_2    ExtFP372_2    ExtFP393_2    ExtFP910_2    ExtFP920_2    ExtFP977_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    80    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_corr_80_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_corr_y_train_rew_.csv
+FP11_0    FP43_0    FP74_0    FP81_0    FP89_0    FP95_0    FP151_0    FP245_0    FP319_0    FP353_0    FP429_0    FP486_0    FP531_0    FP544_0    FP599_0    FP609_0    FP632_0    FP676_0    FP734_0    FP743_0    FP817_0    FP874_0    FP897_0    FP952_0    ExtFP118_0    ExtFP196_0    ExtFP214_0    ExtFP591_0    ExtFP681_0    ExtFP774_0    ExtFP929_0    FP47_1    FP105_1    FP115_1    FP217_1    FP237_1    FP304_1    FP359_1    FP367_1    FP430_1    FP584_1    FP634_1    FP755_1    FP843_1    FP905_1    ExtFP9_1    ExtFP426_1    ExtFP512_1    ExtFP634_1    ExtFP826_1    ExtFP827_1    ExtFP836_1    ExtFP943_1    FP64_2    FP65_2    FP91_2    FP113_2    FP295_2    FP316_2    FP353_2    FP550_2    FP567_2    FP743_2    FP760_2    FP860_2    FP915_2    ExtFP4_2    ExtFP18_2    ExtFP81_2    ExtFP330_2    ExtFP372_2    ExtFP393_2    ExtFP503_2    ExtFP910_2    ExtFP920_2    ExtFP977_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_0    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_0_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+ExtFP929_0    FP367_1    FP295_2    ExtFP1003_0    FP599_0    ExtFP4_2    FP429_0    ExtFP634_1    FP584_1    ExtFP393_2    ExtFP330_2    FP245_0    FP610_2    ExtFP512_1    FP755_1    FP316_2    ExtFP774_0    ExtFP9_1    FP65_2    FP11_0    FP81_0    ExtFP18_2    FP676_0    FP531_0    FP760_2    FP609_0    FP430_1    FP915_2    FP897_0    ExtFP977_2    FP319_0    FP43_0    FP75_2    ExtFP196_0    FP359_1    FP567_2    FP681_1    FP237_1    FP91_2    FP888_2    FP353_2    FP105_1    FP952_0    FP95_0    FP817_0    FP304_1    ExtFP813_1    FP743_2    FP743_0    FP905_1    ExtFP118_0    FP74_0    ExtFP503_2    ExtFP827_1    ExtFP81_2    ExtFP193_0    FP874_0    ExtFP372_2    FP632_0    FP64_2    ExtFP201_2    ExtFP826_1    FP544_0    ExtFP920_2    FP115_1    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_1    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_1_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+ExtFP512_1    FP47_1    ExtFP196_0    ExtFP591_0    ExtFP681_0    ExtFP330_2    FP217_1    ExtFP81_2    ExtFP836_1    FP550_2    FP634_1    ExtFP774_0    FP743_0    FP915_2    FP599_0    FP817_0    FP64_2    FP89_0    FP95_0    FP567_2    FP429_0    FP316_2    FP681_1    FP544_0    ExtFP426_1    FP860_2    FP115_1    FP367_1    ExtFP393_2    ExtFP201_2    FP676_0    FP584_1    FP75_2    FP353_2    ExtFP193_0    ExtFP412_2    FP91_2    ExtFP977_2    ExtFP813_1    FP430_1    FP43_0    FP507_0    FP562_0    FP11_0    FP113_2    ExtFP372_2    FP743_2    FP25_0    FP486_0    FP897_0    FP609_0    FP353_0    ExtFP118_0    FP81_0    FP734_0    ExtFP1003_0    FP632_0    ExtFP943_1    FP610_2    ExtFP18_2    ExtFP920_2    FP295_2    FP319_0    ExtFP4_2    FP105_1    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_2    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_2_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP531_0    ExtFP827_1    FP64_2    FP319_0    FP874_0    ExtFP910_2    FP760_2    FP952_0    FP634_1    ExtFP224_1    FP245_0    ExtFP18_2    FP599_0    ExtFP426_1    FP609_0    FP610_2    FP752_1    FP544_0    FP562_0    ExtFP81_2    ExtFP330_2    ExtFP372_2    FP915_2    ExtFP920_2    FP755_1    FP743_2    FP217_1    FP584_1    FP905_1    ExtFP512_1    ExtFP9_1    FP429_0    ExtFP681_0    FP817_0    ExtFP929_0    ExtFP201_2    FP888_2    FP151_0    FP81_0    FP359_1    ExtFP813_1    FP113_2    ExtFP1003_0    ExtFP826_1    FP632_0    ExtFP836_1    FP367_1    FP353_2    ExtFP214_0    ExtFP196_0    ExtFP591_0    FP743_0    FP47_1    ExtFP503_2    ExtFP393_2    FP353_0    FP843_1    FP115_1    FP105_1    FP89_0    FP304_1    ExtFP412_2    FP43_0    FP676_0    FP65_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_3    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_3_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP217_1    FP567_2    FP47_1    ExtFP201_2    ExtFP214_0    FP609_0    FP81_0    ExtFP193_0    ExtFP224_1    FP353_0    FP11_0    ExtFP910_2    FP550_2    ExtFP9_1    FP599_0    FP25_0    FP743_2    FP752_1    ExtFP81_2    FP743_0    ExtFP591_0    ExtFP4_2    ExtFP393_2    ExtFP118_0    FP65_2    ExtFP634_1    FP316_2    FP755_1    FP817_0    ExtFP827_1    ExtFP774_0    FP430_1    FP610_2    FP95_0    FP245_0    ExtFP194_2    FP43_0    FP359_1    FP91_2    ExtFP826_1    FP584_1    FP295_2    FP632_0    FP843_1    ExtFP681_0    FP105_1    FP113_2    FP860_2    ExtFP196_0    FP367_1    FP952_0    FP897_0    FP734_0    ExtFP920_2    ExtFP372_2    ExtFP813_1    FP760_2    ExtFP836_1    ExtFP943_1    FP915_2    FP905_1    FP304_1    FP75_2    FP507_0    ExtFP18_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_4    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_4_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP897_0    ExtFP512_1    FP151_0    FP550_2    FP634_1    FP562_0    FP245_0    ExtFP426_1    FP367_1    FP486_0    FP584_1    FP843_1    FP89_0    ExtFP372_2    FP237_1    ExtFP920_2    FP65_2    FP47_1    FP25_0    ExtFP81_2    FP676_0    FP874_0    FP952_0    FP681_1    FP610_2    FP359_1    ExtFP929_0    ExtFP827_1    FP295_2    FP599_0    ExtFP214_0    FP43_0    FP91_2    FP544_0    FP429_0    ExtFP330_2    FP105_1    FP95_0    FP755_1    ExtFP194_2    ExtFP977_2    FP567_2    FP11_0    FP743_2    FP74_0    FP507_0    ExtFP681_0    FP888_2    ExtFP591_0    ExtFP18_2    ExtFP943_1    FP353_0    ExtFP393_2    FP860_2    FP353_2    FP743_0    FP217_1    FP915_2    ExtFP224_1    ExtFP813_1    FP609_0    FP113_2    ExtFP826_1    ExtFP774_0    FP817_0    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_5    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_5_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP507_0    ExtFP920_2    FP75_2    FP755_1    ExtFP193_0    FP752_1    ExtFP4_2    ExtFP503_2    ExtFP943_1    ExtFP813_1    FP734_0    ExtFP118_0    ExtFP634_1    FP295_2    FP89_0    ExtFP591_0    ExtFP774_0    FP743_0    FP817_0    FP353_2    FP91_2    ExtFP196_0    FP860_2    FP11_0    ExtFP393_2    ExtFP426_1    FP43_0    FP897_0    FP567_2    FP81_0    ExtFP977_2    FP430_1    FP304_1    FP610_2    FP245_0    FP952_0    FP64_2    FP843_1    FP316_2    FP353_0    FP151_0    FP367_1    FP544_0    ExtFP214_0    ExtFP412_2    FP237_1    ExtFP9_1    ExtFP929_0    FP47_1    FP905_1    FP676_0    ExtFP372_2    ExtFP1003_0    ExtFP194_2    FP25_0    ExtFP330_2    FP95_0    FP562_0    FP319_0    FP681_1    FP105_1    FP359_1    ExtFP826_1    FP760_2    ExtFP224_1    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_6    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_6_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+ExtFP774_0    FP353_2    FP105_1    FP843_1    FP151_0    ExtFP503_2    FP544_0    FP609_0    FP915_2    FP11_0    FP676_0    ExtFP920_2    FP64_2    FP75_2    ExtFP193_0    FP65_2    FP562_0    FP319_0    FP89_0    FP47_1    FP681_1    FP237_1    ExtFP929_0    FP897_0    FP115_1    FP367_1    ExtFP412_2    ExtFP910_2    FP95_0    FP599_0    FP81_0    ExtFP393_2    ExtFP201_2    FP743_0    FP567_2    FP550_2    FP531_0    FP304_1    FP817_0    ExtFP194_2    FP952_0    FP752_1    FP217_1    ExtFP9_1    FP91_2    ExtFP943_1    ExtFP836_1    ExtFP372_2    ExtFP813_1    ExtFP118_0    FP743_2    ExtFP977_2    FP316_2    FP113_2    ExtFP634_1    FP486_0    ExtFP330_2    FP760_2    FP610_2    ExtFP81_2    ExtFP1003_0    FP353_0    ExtFP681_0    ExtFP4_2    ExtFP426_1    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_7    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_7_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP304_1    ExtFP827_1    ExtFP977_2    FP115_1    FP676_0    FP74_0    FP319_0    ExtFP18_2    ExtFP920_2    ExtFP426_1    FP952_0    FP25_0    ExtFP512_1    FP734_0    FP11_0    FP65_2    ExtFP503_2    FP681_1    FP584_1    ExtFP634_1    FP817_0    ExtFP224_1    FP632_0    FP353_2    FP43_0    FP295_2    FP113_2    FP89_0    FP888_2    FP743_0    FP105_1    ExtFP9_1    FP353_0    ExtFP1003_0    FP599_0    FP367_1    ExtFP826_1    FP752_1    FP609_0    ExtFP774_0    FP75_2    ExtFP214_0    FP755_1    FP151_0    FP91_2    FP47_1    ExtFP330_2    FP81_0    ExtFP591_0    ExtFP813_1    ExtFP81_2    FP567_2    ExtFP910_2    FP95_0    FP562_0    ExtFP943_1    FP634_1    FP860_2    FP359_1    FP843_1    FP550_2    ExtFP393_2    FP64_2    FP316_2    FP760_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_8    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_8_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP760_2    FP531_0    FP681_1    ExtFP393_2    FP584_1    ExtFP910_2    ExtFP503_2    ExtFP774_0    FP319_0    ExtFP4_2    ExtFP943_1    ExtFP201_2    FP304_1    ExtFP412_2    FP11_0    ExtFP372_2    FP755_1    ExtFP193_0    ExtFP118_0    FP353_2    FP486_0    ExtFP813_1    FP817_0    FP952_0    ExtFP920_2    FP550_2    FP567_2    ExtFP224_1    FP915_2    FP91_2    FP632_0    FP562_0    FP245_0    FP634_1    FP874_0    ExtFP1003_0    FP610_2    FP905_1    FP743_2    ExtFP81_2    ExtFP826_1    FP25_0    FP65_2    FP743_0    ExtFP18_2    ExtFP836_1    FP609_0    FP888_2    FP237_1    FP217_1    ExtFP196_0    ExtFP681_0    FP860_2    FP752_1    FP115_1    ExtFP929_0    FP353_0    FP316_2    ExtFP977_2    FP430_1    ExtFP194_2    FP897_0    FP599_0    FP95_0    FP47_1    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_9    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_random_des_random_9_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_random_y_train_rew_.csv
+FP609_0    FP743_0    FP567_2    ExtFP826_1    FP105_1    FP544_0    FP64_2    FP367_1    FP91_2    ExtFP943_1    FP507_0    FP676_0    FP915_2    FP486_0    FP47_1    FP75_2    FP429_0    ExtFP118_0    FP43_0    FP599_0    ExtFP9_1    FP89_0    FP952_0    ExtFP910_2    ExtFP214_0    ExtFP977_2    ExtFP774_0    ExtFP81_2    ExtFP503_2    FP755_1    ExtFP426_1    FP734_0    ExtFP681_0    FP304_1    ExtFP4_2    FP237_1    FP584_1    FP843_1    FP353_0    FP905_1    FP860_2    ExtFP193_0    ExtFP196_0    ExtFP591_0    FP562_0    FP353_2    FP25_0    FP550_2    ExtFP18_2    FP74_0    ExtFP1003_0    ExtFP201_2    ExtFP372_2    FP634_1    FP81_0    FP115_1    ExtFP412_2    FP319_0    FP113_2    ExtFP929_0    FP743_2    ExtFP827_1    FP888_2    ExtFP224_1    ExtFP194_2    
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_la_ff    la_ff_final    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_la_ff_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_la_ff_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_la_ff_la_ff_final_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_la_ff_y_train_rew_.csv
+ExtFP9_1    FP562_0    FP151_0    ExtFP826_1    FP609_0    FP634_1    ExtFP1003_0    FP115_1    FP237_1    FP681_1    FP734_0    FP217_1    FP544_0    ExtFP512_1    ExtFP836_1    ExtFP118_0    FP676_0    FP105_1    FP897_0    ExtFP591_0    FP860_2    FP430_1    ExtFP224_1    FP531_0    FP43_0    FP319_0    FP817_0    FP353_0    FP743_0    FP11_0    FP567_2    ExtFP910_2    FP486_0    FP429_0    FP584_1    ExtFP196_0    FP760_2    FP81_0    ExtFP920_2    FP632_0    FP507_0    FP95_0    FP359_1    FP905_1    FP752_1    ExtFP18_2    FP755_1    FP843_1    ExtFP412_2    FP952_0    FP743_2    FP65_2    ExtFP194_2    ExtFP193_0    ExtFP426_1    FP47_1    ExtFP81_2    FP353_2    FP74_0    FP25_0    ExtFP503_2    FP610_2    ExtFP393_2    FP550_2    FP91_2    FP295_2    FP367_1    FP304_1    FP89_0    ExtFP827_1    FP915_2    FP888_2    FP874_0    FP75_2    FP64_2    FP599_0    FP316_2    FP245_0    FP113_2    ExtFP977_2    ExtFP943_1    ExtFP929_0    ExtFP813_1    ExtFP774_0    ExtFP681_0    ExtFP634_1    ExtFP4_2    ExtFP372_2    ExtFP330_2    ExtFP214_0    ExtFP201_2    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_mlr_ff-ori    mlr_ff_multifinal    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_mlr_ff-ori_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_mlr_ff-ori_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_mlr_ff-ori_mlr_ff_multifinal_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_mlr_ff-ori_y_train_rew_.csv
+ExtFP9_1    ExtFP512_1    ExtFP827_1    FP860_2    FP65_2    ExtFP977_2    FP531_0    FP11_0    FP760_2    FP304_1    FP25_0    FP113_2    FP734_0    FP676_0    FP609_0    FP743_0    FP81_0    FP430_1    ExtFP18_2    FP610_2    FP429_0    FP599_0    FP353_0    FP743_2    FP105_1    FP95_0    FP567_2    ExtFP943_1    ExtFP910_2    FP755_1    FP64_2    FP584_1    FP245_0    FP359_1    FP507_0    FP115_1    FP562_0    FP905_1    ExtFP196_0    FP237_1    FP151_0    ExtFP118_0    ExtFP224_1    FP47_1    FP544_0    FP952_0    ExtFP214_0    FP486_0    FP817_0    ExtFP503_2    FP888_2    ExtFP836_1    FP43_0    ExtFP634_1    ExtFP4_2    ExtFP426_1    ExtFP826_1    FP89_0    ExtFP193_0    FP319_0    ExtFP372_2    FP874_0    FP295_2    FP897_0    FP843_1    ExtFP681_0    ExtFP201_2    FP74_0    
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_rf_ff    rf_ff_final    all    
+./ir_weirui24/result__slf/xy__fr_4_s_n__emlb__train_ori__.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_x_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf__dl1ss_fr_4_s_n_y_test_ori_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_rf_ff_fr_4_s_n_x_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_rf_ff_y_test_re_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_emlb_fr_4_s_n_dl1ss_dl2ss_des_rf_ff_rf_ff_final_x_train_rew_.csv
+./ir_weirui24/snresult_slf/result_emlb/slf_dl1ss_dl2ss_des_rf_ff_y_train_rew_.csv
+ExtFP9_1    ExtFP827_1    ExtFP512_1    FP65_2    FP860_2    ExtFP910_2    FP91_2    FP952_0    FP567_2    FP905_1    FP81_0    ExtFP81_2    FP105_1    FP634_1    FP74_0    FP429_0    ExtFP634_1    ExtFP194_2    ExtFP681_0    ExtFP920_2    ExtFP977_2    ExtFP372_2    FP319_0    FP544_0    ExtFP929_0    FP353_2    FP743_0    FP115_1    ExtFP330_2    FP760_2    FP531_0    ExtFP503_2    FP89_0    ExtFP224_1    FP897_0    FP304_1    FP113_2    FP367_1    ExtFP18_2    FP743_2    FP843_1    FP817_0    ExtFP412_2    ExtFP591_0    ExtFP193_0    FP64_2    FP47_1    FP507_0    ExtFP196_0    FP353_0    FP245_0    FP676_0    ExtFP118_0    FP75_2    FP915_2    FP430_1    ExtFP1003_0    ExtFP4_2    ExtFP826_1    FP562_0    FP295_2    FP888_2    FP151_0    FP610_2    FP43_0    FP734_0    ExtFP201_2    FP316_2    ExtFP943_1    FP25_0    FP681_1    FP609_0    FP486_0    FP584_1    ExtFP774_0    ExtFP836_1    FP874_0    FP599_0    FP11_0    ExtFP426_1    FP359_1    ExtFP214_0    FP550_2    FP217_1    FP237_1    FP632_0    ExtFP393_2    FP752_1    FP95_0    FP755_1    ExtFP813_1    
+
+

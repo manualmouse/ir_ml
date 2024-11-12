@@ -1,0 +1,43 @@
+,target name,complex feature set,random seed,feature selection parameter 1,feature selection parameter 2,learner algorithm,training set RMSE,training set R^2,test set RMSE,test set R^2,learner parameter dict
+1,max_ob,I_01ch,rand_24,II_ps,62,III_dtr,8.500,0.960,14.300,0.869,"{'max_depth': [10], 'max_features': [62], 'max_leaf_nodes': [10]}"
+2,max_ob,I_13cp,rand_24,II_sp,143,III_la,9.500,0.950,14.800,0.860,{'alpha': [0.39]}
+3,max_ob,I_13cg,rand_24,II_ps,122,III_dtr,17.200,0.836,16.200,0.833,"{'max_depth': [4], 'max_features': [50], 'max_leaf_nodes': [6]}"
+4,max_ob,I_01cp,rand_24,II_sp,130,III_dtr,9.700,0.948,17.200,0.811,"{'max_depth': [10], 'max_features': [70], 'max_leaf_nodes': [8]}"
+5,max_ob,I_01cl,rand_24,II_ps,176,III_svm_lin,8.500,0.960,17.400,0.807,{}
+6,max_ob,I_01cg,rand_24,II_sp,139,III_mlr,0.000,1.000,17.500,0.805,{}
+7,max_ob,I_13cl,rand_24,II_sp,115,III_dtr,7.700,0.967,17.800,0.799,"{'max_depth': [6], 'max_features': [25], 'max_leaf_nodes': [14]}"
+8,max_ob,I_13s1d,rand_24,II_sp,27,III_dtr,19.000,0.800,17.800,0.798,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [12]}"
+9,max_ob,I_13s1h,rand_24,II_sp,70,III_dtr,1.700,0.998,18.400,0.784,"{'max_depth': [8], 'max_features': [10], 'max_leaf_nodes': [38]}"
+10,max_ob,I_01s3l,rand_24,II_ps,25,III_dtr,14.200,0.889,18.600,0.780,"{'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [6]}"
+11,max_ob,I_13s3l,rand_24,II_ps,141,III_svm_lin,15.600,0.865,18.600,0.779,{}
+12,max_ob,I_13s2g,rand_24,II_sp,35,III_dtr,22.800,0.714,18.700,0.778,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [22]}"
+13,max_ob,I_13s2h,rand_24,II_sp,35,III_dtr,22.800,0.714,18.700,0.778,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [22]}"
+14,max_ob,I_13s2p,rand_24,II_sp,35,III_dtr,22.800,0.714,18.700,0.778,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [22]}"
+15,max_ob,I_01s2p,rand_24,II_sp,26,III_dtr,23.700,0.690,19.500,0.757,"{'max_depth': [10], 'max_features': [15], 'max_leaf_nodes': [6]}"
+16,max_ob,I_13s2d,rand_24,II_sp,71,III_dtr,23.200,0.703,19.900,0.748,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [20]}"
+17,max_ob,I_13s3g,rand_24,II_sp,103,III_dtr,14.400,0.886,19.900,0.748,"{'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [8]}"
+18,max_ob,I_13s3d,rand_24,II_ps,87,III_dtr,24.600,0.667,20.000,0.743,"{'max_depth': [4], 'max_features': [40], 'max_leaf_nodes': [6]}"
+19,max_ob,I_01s2g,rand_24,II_sp,68,III_dtr,19.900,0.781,20.200,0.740,"{'max_depth': [6], 'max_features': [20], 'max_leaf_nodes': [14]}"
+20,max_ob,I_01s2h,rand_24,II_sp,34,III_dtr,24.500,0.668,20.300,0.736,"{'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [6]}"
+21,max_ob,I_01s2l,rand_24,II_sp,67,III_dtr,19.700,0.786,21.000,0.719,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [20]}"
+22,max_ob,I_13s3h,rand_24,II_ps,98,III_dtr,22.300,0.726,21.100,0.717,"{'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [8]}"
+23,max_ob,I_13s1p,rand_24,II_sp,110,III_svm_lin,20.100,0.776,21.100,0.716,{}
+24,max_ob,I_13s3p,rand_24,II_ps,6,III_dtr,23.900,0.683,21.100,0.714,"{'max_depth': [2], 'max_features': [6], 'max_leaf_nodes': [4]}"
+25,max_ob,I_01s3p,rand_24,II_sp,4,III_dtr,25.100,0.652,21.300,0.710,"{'max_depth': [2], 'max_features': [4], 'max_leaf_nodes': [2]}"
+26,max_ob,I_13s1l,rand_24,II_ps,107,III_dtr,26.000,0.627,21.300,0.709,"{'max_depth': [2], 'max_features': [30], 'max_leaf_nodes': [4]}"
+27,max_ob,I_13s1g,rand_24,II_sp,88,III_dtr,25.500,0.641,21.500,0.704,"{'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [4]}"
+28,max_ob,I_01s2d,rand_24,II_ps,112,III_dtr,25.200,0.650,22.100,0.687,"{'max_depth': [4], 'max_features': [45], 'max_leaf_nodes': [4]}"
+29,max_ob,I_13ch,rand_24,II_ps,144,III_la,7.000,0.973,22.200,0.684,{'alpha': [0.22]}
+30,max_ob,I_01s1h,rand_24,II_ps,84,III_la,10.600,0.938,22.900,0.664,{'alpha': [0.3]}
+31,max_ob,I_13s2l,rand_24,II_sp,97,III_dtr,24.500,0.668,23.000,0.663,"{'max_depth': [4], 'max_features': [5], 'max_leaf_nodes': [10]}"
+32,max_ob,I_01s3g,rand_24,II_sp,62,III_dtr,15.200,0.871,23.300,0.654,"{'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [8]}"
+33,max_ob,I_01s3h,rand_24,II_sp,125,III_dtr,22.200,0.728,23.300,0.654,"{'max_depth': [2], 'max_features': [20], 'max_leaf_nodes': [4]}"
+34,max_ob,I_01s1d,rand_24,II_ps,35,III_mlr,13.300,0.903,23.400,0.649,{}
+35,max_ob,I_01a,rand_24,II_sp,73,III_dtr,9.600,0.949,23.800,0.639,"{'max_depth': [6], 'max_features': [20], 'max_leaf_nodes': [10]}"
+36,max_ob,I_01s1l,rand_24,II_sp,102,III_la,19.600,0.787,23.900,0.635,{'alpha': [0.17]}
+37,max_ob,I_01s1g,rand_24,II_sp,66,III_dtr,19.700,0.785,24.500,0.615,"{'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [14]}"
+38,max_ob,I_13cd,rand_24,II_sp,126,III_svm_lin,19.600,0.787,24.700,0.610,{}
+39,max_ob,I_01s1p,rand_24,II_ps,115,III_svm_lin,21.700,0.740,24.800,0.607,{}
+40,max_ob,I_01cd,rand_24,II_ps,55,III_la,13.100,0.904,25.000,0.601,{'alpha': [0.16]}
+41,max_ob,I_13a,rand_24,II_sp,144,III_svm_lin,14.300,0.887,26.200,0.560,{}
+42,max_ob,I_01s3d,rand_24,II_ps,109,III_la,26.100,0.622,33.000,0.304,{'alpha': [1.9]}

@@ -1,0 +1,11 @@
+,target name,complex feature set,feature selection parameter 1,feature selection parameter 2,learner algorithm,duality set RMSE,duality set R^2,test set RMSE,test set R^2
+1,emlb,I_01cd,II_ps,100,no_method_info,13.600,0.857,13.600,0.857
+2,emlb,I_01cg,II_rr2,104,no_method_info,13.300,0.863,13.300,0.863
+3,emlb,I_01ch,II_ps,132,no_method_info,14.300,0.843,14.300,0.843
+4,emlb,I_01cp,II_ps,72,no_method_info,14.900,0.830,14.900,0.830
+5,emlb,I_01cl,II_ps,84,no_method_info,14.600,0.836,14.600,0.836
+6,emlb,I_13cd,II_rr2,86,no_method_info,15.700,0.809,15.700,0.809
+7,emlb,I_13cg,II_ps,108,no_method_info,14.600,0.835,14.600,0.835
+8,emlb,I_13ch,II_ps,114,no_method_info,16.300,0.796,16.300,0.796
+9,emlb,I_13cp,II_sp,98,no_method_info,15.700,0.810,15.700,0.810
+10,emlb,I_13cl,II_sp,24,no_method_info,13.600,0.858,13.600,0.858

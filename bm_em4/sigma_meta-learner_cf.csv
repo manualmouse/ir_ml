@@ -1,0 +1,133 @@
+,target name,complex feature set,feature selection parameter 1,feature selection parameter 2,learner algorithm,duality set RMSE,duality set R^2,test set RMSE,test set R^2,learner parameter dict
+1,sigma,I_13a,II_sp,76,III_mlr,0.000,0.860,0.000,0.758,{}
+2,sigma,I_01cl,II_sp,90,III_la,0.000,0.831,0.000,0.744,{'alpha': [0.00019]}
+3,sigma,I_01cn,II_ps,99,III_la,0.000,0.818,0.000,0.738,{'alpha': [0.00029]}
+4,sigma,I_01cp,II_r2r,103,III_la,0.000,0.859,0.000,0.735,{'alpha': [0.00014]}
+5,sigma,I_01cd,II_sp,111,III_la,0.000,0.805,0.000,0.727,{'alpha': [0.00064]}
+6,sigma,I_01cg,II_r2r,107,III_la,0.000,0.861,0.000,0.726,{'alpha': [0.00013]}
+7,sigma,I_12a,II_ps,82,III_la,0.000,0.834,0.000,0.714,{'alpha': [0.00015]}
+8,sigma,I_01a,II_ps,76,III_mlr,0.000,0.835,0.000,0.709,{}
+9,sigma,I_13cp,II_sp,78,III_la,0.000,0.797,0.000,0.704,{'alpha': [0.00013]}
+10,sigma,I_11a,II_ps,60,III_la,0.000,0.789,0.000,0.704,{'alpha': [0.00013]}
+11,sigma,I_02cl,II_r2r,96,III_la,0.000,0.838,0.000,0.702,{'alpha': [0.00012]}
+12,sigma,I_02a,II_r2r,48,III_mlr,0.000,0.769,0.000,0.693,{}
+13,sigma,I_13cd,II_r2r,76,III_mlr,0.000,0.808,0.000,0.689,{}
+14,sigma,I_12cp,II_sp,82,III_la,0.000,0.698,0.000,0.683,{'alpha': [0.00032]}
+15,sigma,I_01ch,II_sp,90,III_la,0.000,0.789,0.000,0.682,{'alpha': [0.00033]}
+16,sigma,I_12cg,II_r2r,94,III_la,0.000,0.791,0.000,0.677,{'alpha': [0.00017]}
+17,sigma,I_12cl,II_r2r,94,III_la,0.000,0.767,0.000,0.677,{'alpha': [0.00036]}
+18,sigma,I_02cn,II_sp,76,III_la,0.000,0.784,0.000,0.670,{'alpha': [0.00021]}
+19,sigma,I_11cl,II_sp,78,III_la,0.000,0.756,0.000,0.666,{'alpha': [0.00017]}
+20,sigma,I_13cg,II_ps,78,III_la,0.000,0.767,0.000,0.664,{'alpha': [0.00033]}
+21,sigma,I_02cg,II_r2r,82,III_la,0.000,0.729,0.000,0.663,{'alpha': [0.00061]}
+22,sigma,I_02cd,II_sp,72,III_mlr,0.000,0.791,0.000,0.663,{}
+23,sigma,I_13cl,II_sp,80,III_la,0.000,0.732,0.000,0.658,{'alpha': [0.00046]}
+24,sigma,I_02cp,II_r2r,92,III_la,0.000,0.721,0.000,0.658,{'alpha': [0.00065]}
+25,sigma,I_11cp,II_sp,80,III_la,0.000,0.658,0.000,0.644,{'alpha': [0.00028]}
+26,sigma,I_11cg,II_ps,86,III_la,0.000,0.712,0.000,0.639,{'alpha': [0.00031]}
+27,sigma,I_12cn,II_sp,56,III_la,0.000,0.694,0.000,0.638,{'alpha': [0.00015]}
+28,sigma,I_12ch,II_r2r,81,III_la,0.000,0.757,0.000,0.631,{'alpha': [0.00046]}
+29,sigma,I_13cn,II_sp,52,III_mlr,0.000,0.788,0.000,0.626,{}
+30,sigma,I_12cd,II_ps,34,III_la,0.000,0.676,0.000,0.620,{'alpha': [8.2e-05]}
+31,sigma,I_02ch,II_ps,66,III_la,0.000,0.765,0.000,0.618,{'alpha': [0.00022]}
+32,sigma,I_11ch,II_r2r,66,III_la,0.000,0.760,0.000,0.617,{'alpha': [0.00024]}
+33,sigma,I_13ch,II_ps,50,III_la,0.000,0.743,0.000,0.612,{'alpha': [0.00058]}
+34,sigma,I_10a,II_sp,40,III_la,0.000,0.653,0.000,0.603,{'alpha': [0.00011]}
+35,sigma,I_01s3g,II_r2r,18,III_mlr,0.000,0.553,0.000,0.579,{}
+36,sigma,I_11cn,II_sp,14,III_mlr,0.000,0.593,0.000,0.576,{}
+37,sigma,I_13s3g,II_sp,12,III_la,0.000,0.532,0.000,0.575,{'alpha': [0.00012]}
+38,sigma,I_11s3g,II_r2r,34,III_la,0.000,0.542,0.000,0.572,{'alpha': [0.00034]}
+39,sigma,I_12s3l,II_ps,85,III_la,0.000,0.582,0.000,0.571,{'alpha': [0.00035]}
+40,sigma,I_12s3g,II_sp,83,III_la,0.000,0.553,0.000,0.565,{'alpha': [0.00052]}
+41,sigma,I_13s3l,II_r2r,4,III_dtr,0.000,0.657,0.000,0.564,"{'max_depth': [4], 'max_features': [4], 'max_leaf_nodes': [10]}"
+42,sigma,I_10cg,II_sp,24,III_mlr,0.000,0.626,0.000,0.560,{}
+43,sigma,I_10cp,II_sp,54,III_la,0.000,0.571,0.000,0.558,{'alpha': [0.00023]}
+44,sigma,I_01s3l,II_ps,64,III_la,0.000,0.580,0.000,0.554,{'alpha': [0.00031]}
+45,sigma,I_02s3g,II_sp,46,III_dtr,0.000,0.556,0.000,0.551,"{'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [4]}"
+46,sigma,I_11s3l,II_ps,4,III_dtr,0.000,0.523,0.000,0.535,"{'max_depth': [6], 'max_features': [4], 'max_leaf_nodes': [8]}"
+47,sigma,I_02s3l,II_sp,60,III_la,0.000,0.541,0.000,0.534,{'alpha': [0.00039]}
+48,sigma,I_10cn,II_r2r,56,III_la,0.000,0.561,0.000,0.530,{'alpha': [0.00015]}
+49,sigma,I_11cd,II_sp,56,III_mlr,0.000,0.614,0.000,0.530,{}
+50,sigma,I_10cl,II_r2r,71,III_la,0.000,0.603,0.000,0.526,{'alpha': [0.00051]}
+51,sigma,I_02s1h,II_r2r,75,III_la,0.000,0.559,0.000,0.516,{'alpha': [0.00035]}
+52,sigma,I_02s1l,II_sp,66,III_la,0.000,0.543,0.000,0.493,{'alpha': [0.00017]}
+53,sigma,I_13s1l,II_ps,44,III_la,0.000,0.539,0.000,0.484,{'alpha': [0.00019]}
+54,sigma,I_12s1h,II_sp,72,III_la,0.000,0.528,0.000,0.482,{'alpha': [0.00037]}
+55,sigma,I_11s1l,II_ps,4,III_mlr,0.000,0.467,0.000,0.469,{}
+56,sigma,I_10s3g,II_ps,18,III_la,0.000,0.436,0.000,0.469,{'alpha': [0.001]}
+57,sigma,I_12s1l,II_r2r,20,III_la,0.000,0.481,0.000,0.464,{'alpha': [0.00026]}
+58,sigma,I_01s1l,II_sp,73,III_la,0.000,0.480,0.000,0.464,{'alpha': [0.00046]}
+59,sigma,I_01s1h,II_ps,80,III_la,0.000,0.511,0.000,0.451,{'alpha': [0.00028]}
+60,sigma,I_13s1h,II_sp,80,III_la,0.000,0.552,0.000,0.450,{'alpha': [0.00029]}
+61,sigma,I_10ch,II_r2r,62,III_la,0.000,0.633,0.000,0.447,{'alpha': [0.00021]}
+62,sigma,I_12s1p,II_ps,77,III_dtr,0.000,0.432,0.000,0.442,"{'max_depth': [2], 'max_features': [55], 'max_leaf_nodes': [4]}"
+63,sigma,I_01s3p,II_ps,14,III_la,0.000,0.471,0.000,0.433,{'alpha': [0.00017]}
+64,sigma,I_11s1h,II_sp,32,III_mlr,0.000,0.483,0.000,0.423,{}
+65,sigma,I_13s3p,II_sp,61,III_la,0.000,0.478,0.000,0.422,{'alpha': [0.00025]}
+66,sigma,I_02s3p,II_r2r,79,III_la,0.000,0.559,0.000,0.422,{'alpha': [0.00013]}
+67,sigma,I_10cd,II_sp,56,III_la,0.000,0.537,0.000,0.415,{'alpha': [0.00015]}
+68,sigma,I_13s1p,II_ps,80,III_dtr,0.000,0.481,0.000,0.415,"{'max_depth': [2], 'max_features': [15], 'max_leaf_nodes': [4]}"
+69,sigma,I_10s3l,II_ps,18,III_mlr,0.000,0.358,0.000,0.410,{}
+70,sigma,I_01s1g,II_sp,71,III_la,0.000,0.460,0.000,0.404,{'alpha': [0.00041]}
+71,sigma,I_11s1p,II_sp,10,III_mlr,0.000,0.406,0.000,0.399,{}
+72,sigma,I_02s1p,II_sp,18,III_mlr,0.000,0.436,0.000,0.394,{}
+73,sigma,I_01s1p,II_sp,48,III_la,0.000,0.487,0.000,0.384,{'alpha': [0.00027]}
+74,sigma,I_12s3p,II_sp,68,III_la,0.000,0.485,0.000,0.382,{'alpha': [0.00019]}
+75,sigma,I_02s1g,II_sp,60,III_la,0.000,0.427,0.000,0.381,{'alpha': [0.00018]}
+76,sigma,I_10s1p,II_sp,4,III_la,0.000,0.333,0.000,0.358,{'alpha': [0.00024]}
+77,sigma,I_02s3d,II_r2r,28,III_mlr,0.000,0.426,0.000,0.357,{}
+78,sigma,I_13s1g,II_sp,71,III_la,0.000,0.405,0.000,0.356,{'alpha': [0.00043]}
+79,sigma,I_02s1d,II_sp,56,III_la,0.000,0.414,0.000,0.350,{'alpha': [0.00063]}
+80,sigma,I_11s3p,II_ps,50,III_la,0.000,0.412,0.000,0.347,{'alpha': [0.00028]}
+81,sigma,I_10s1h,II_sp,20,III_la,0.000,0.347,0.000,0.340,{'alpha': [0.00037]}
+82,sigma,I_11s1g,II_r2r,50,III_la,0.000,0.405,0.000,0.333,{'alpha': [0.00015]}
+83,sigma,I_01s3d,II_sp,71,III_dtr,0.000,0.458,0.000,0.330,"{'max_depth': [4], 'max_features': [25], 'max_leaf_nodes': [6]}"
+84,sigma,I_11s3d,II_r2r,12,III_mlr,0.000,0.383,0.000,0.330,{}
+85,sigma,I_01s1d,II_ps,30,III_la,0.000,0.457,0.000,0.322,{'alpha': [0.00081]}
+86,sigma,I_13s3d,II_sp,50,III_mlr,0.000,0.463,0.000,0.321,{}
+87,sigma,I_10s1l,II_sp,47,III_la,0.000,0.380,0.000,0.320,{'alpha': [0.0016]}
+88,sigma,I_12s1d,II_sp,18,III_mlr,0.000,0.307,0.000,0.319,{}
+89,sigma,I_12s1g,II_sp,6,III_la,0.000,0.345,0.000,0.314,{'alpha': [0.00047]}
+90,sigma,I_12s3d,II_r2r,22,III_la,0.000,0.385,0.000,0.313,{'alpha': [0.00074]}
+91,sigma,I_13s1d,II_ps,26,III_la,0.000,0.411,0.000,0.307,{'alpha': [0.00014]}
+92,sigma,I_10s3p,II_sp,22,III_dtr,0.000,0.352,0.000,0.301,"{'max_depth': [4], 'max_features': [5], 'max_leaf_nodes': [6]}"
+93,sigma,I_10s3d,II_r2r,8,III_mlr,0.000,0.322,0.000,0.241,{}
+94,sigma,I_10s1g,II_sp,22,III_mlr,0.000,0.311,0.000,0.236,{}
+95,sigma,I_01s3h,II_sp,22,III_mlr,0.000,0.332,0.000,0.217,{}
+96,sigma,I_13s3h,II_r2r,69,III_la,0.000,0.334,0.000,0.216,{'alpha': [0.00071]}
+97,sigma,I_12s3h,II_r2r,62,III_la,0.000,0.352,0.000,0.210,{'alpha': [0.00039]}
+98,sigma,I_11s3h,II_r2r,50,III_mlr,0.000,0.315,0.000,0.207,{}
+99,sigma,I_10s1d,II_r2r,7,III_dtr,0.000,0.201,0.000,0.202,"{'max_depth': [6], 'max_features': [7], 'max_leaf_nodes': [26]}"
+100,sigma,I_02s3h,II_r2r,22,III_dtr,0.000,0.338,0.000,0.198,"{'max_depth': [2], 'max_features': [5], 'max_leaf_nodes': [4]}"
+101,sigma,I_11s1d,II_ps,11,III_dtr,0.000,0.199,0.000,0.195,"{'max_depth': [4], 'max_features': [11], 'max_leaf_nodes': [16]}"
+102,sigma,I_10s3h,II_r2r,9,III_mlr,0.000,0.192,0.000,0.113,{}
+103,sigma,I_12s2l,II_r2r,3,III_la,0.000,0.092,0.000,0.102,{'alpha': [0.00068]}
+104,sigma,I_12s2p,II_r2r,3,III_la,0.000,0.092,0.000,0.102,{'alpha': [0.00068]}
+105,sigma,I_12s2h,II_r2r,3,III_la,0.000,0.092,0.000,0.102,{'alpha': [0.00068]}
+106,sigma,I_12s2g,II_r2r,3,III_la,0.000,0.092,0.000,0.102,{'alpha': [0.00068]}
+107,sigma,I_12s2d,II_r2r,3,III_la,0.000,0.092,0.000,0.102,{'alpha': [0.00068]}
+108,sigma,I_13s2l,II_sp,5,III_la,0.000,0.103,0.000,0.100,{'alpha': [0.0007]}
+109,sigma,I_13s2p,II_sp,5,III_la,0.000,0.103,0.000,0.100,{'alpha': [0.0007]}
+110,sigma,I_13s2h,II_sp,5,III_la,0.000,0.103,0.000,0.100,{'alpha': [0.0007]}
+111,sigma,I_13s2g,II_sp,5,III_la,0.000,0.103,0.000,0.100,{'alpha': [0.0007]}
+112,sigma,I_13s2d,II_sp,5,III_la,0.000,0.103,0.000,0.100,{'alpha': [0.0007]}
+113,sigma,I_02s2l,II_sp,56,III_la,0.000,0.146,0.000,0.095,{'alpha': [0.00085]}
+114,sigma,I_02s2p,II_sp,56,III_la,0.000,0.146,0.000,0.095,{'alpha': [0.00085]}
+115,sigma,I_02s2h,II_sp,56,III_la,0.000,0.146,0.000,0.095,{'alpha': [0.00085]}
+116,sigma,I_02s2g,II_sp,56,III_la,0.000,0.146,0.000,0.095,{'alpha': [0.00085]}
+117,sigma,I_02s2d,II_sp,56,III_la,0.000,0.146,0.000,0.095,{'alpha': [0.00085]}
+118,sigma,I_01s2g,II_sp,5,III_la,0.000,0.148,0.000,0.065,{'alpha': [1.2e-05]}
+119,sigma,I_01s2l,II_ps,5,III_la,0.000,0.148,0.000,0.064,{'alpha': [1.5e-05]}
+120,sigma,I_01s2d,II_ps,5,III_la,0.000,0.148,0.000,0.064,{'alpha': [1.4e-05]}
+121,sigma,I_01s2p,II_r2r,5,III_la,0.000,0.148,0.000,0.064,{'alpha': [1.3e-05]}
+122,sigma,I_01s2h,II_r2r,5,III_la,0.000,0.151,0.000,0.061,{'alpha': [9e-06]}
+123,sigma,I_11s2l,II_ps,3,III_la,0.000,0.117,0.000,0.057,{'alpha': [1e-06]}
+124,sigma,I_11s2p,II_ps,3,III_la,0.000,0.117,0.000,0.057,{'alpha': [1e-06]}
+125,sigma,I_11s2h,II_ps,3,III_la,0.000,0.117,0.000,0.057,{'alpha': [1e-06]}
+126,sigma,I_11s2g,II_ps,3,III_la,0.000,0.117,0.000,0.057,{'alpha': [1e-06]}
+127,sigma,I_11s2d,II_ps,3,III_la,0.000,0.117,0.000,0.057,{'alpha': [1e-06]}
+128,sigma,I_10s2l,II_ps,3,III_la,0.000,0.105,0.000,0.054,{'alpha': [1e-06]}
+129,sigma,I_10s2p,II_ps,3,III_la,0.000,0.105,0.000,0.054,{'alpha': [1e-06]}
+130,sigma,I_10s2h,II_ps,3,III_la,0.000,0.105,0.000,0.054,{'alpha': [1e-06]}
+131,sigma,I_10s2g,II_ps,3,III_la,0.000,0.105,0.000,0.054,{'alpha': [1e-06]}
+132,sigma,I_10s2d,II_ps,3,III_la,0.000,0.105,0.000,0.054,{'alpha': [1e-06]}
