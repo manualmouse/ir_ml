@@ -22,6 +22,7 @@ Directory **op_pred** contain an example to show how we use trained model for pr
 
 ## 3 Training stacking models from zero
 The directory **mfo** contains necessary data and code for building stacking models from zero.
+Note that the directory are localed in `https://figshare.com/authors/Ding_Peng/20176785` naming **irml_mfo**
 ### 3.1 Gathering ligand structures and targets of each metal complex
 The whole project begins with gathering data about the relationship between ligand structures, combination of complexes, and their photophysical properties. Note that feature names here are different from the paper.
 
