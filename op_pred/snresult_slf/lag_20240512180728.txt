@@ -1,0 +1,2180 @@
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    10    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:10', 'max_features:8', 'max_leaf_nodes:26', 'n_estimators:1840', 28.777650806590916, 0.36691506282949016]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.728861256834254    every_rmse    0.2709060227723792    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.14', 'max_depth:2', 'max_features:8', 'max_leaf_nodes:4', 'n_estimators:70', 28.884737996812706, 0.36219463396469276]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.763751811615904    every_rmse    0.269249408491124    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.077', 'max_depth:8', 'n_estimators:360', 'num_leaves:20', 28.85971183764692, 0.36329936296258003]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.782919531699342    every_rmse    0.2683385191800217    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 30.183314964654382, 0.30355764580940203]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.497794821577873    every_rmse    0.23396100669515774    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.061', 31.06959399757971, 0.26205760752248564]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.36673296197836    every_rmse    0.2403226975517726    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.1', 30.70455804188007, 0.27929587997303207]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.403735660365378    every_rmse    0.23852928855433042    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.23', 29.63354690341518, 0.32869701840280197]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.292348423308574    every_rmse    0.24392149393261298    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 541.1139126959704, 222.83536502001508]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+544.6444736929883    every_rmse    -228.0428717748673    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.013', 29.429825402543575, 0.33789529385201134]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.456775816802274    every_rmse    0.2359549048109435    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.045', 29.35641827932951, 0.341194163984066]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.356468221765017    every_rmse    0.24081982386952816    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.015', 31.755405258961975, 0.22912027623997056]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+32.26191015519637    every_rmse    0.196342998973433    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 474.49317873104206, 171.11203932004926]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+483.7926403161865    every_rmse    -179.72119611712964    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    20    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:10', 'max_features:9', 'max_leaf_nodes:28', 'n_estimators:50', 25.97469714418164, 0.48423449967887056]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+27.949944065864752    every_rmse    0.3968123183216016    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.3', 'max_depth:2', 'max_features:14', 'max_leaf_nodes:4', 'n_estimators:150', 26.03037902129178, 0.4820208397283091]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+27.905266670775898    every_rmse    0.39873914262696997    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.28', 'max_depth:10', 'n_estimators:1000', 'num_leaves:20', 25.89651411024922, 0.4873347032520442]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+27.957916272727633    every_rmse    0.39646817289032743    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 29.047979842092523, 0.354965159928308]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.95441720278975    every_rmse    0.307192905664443    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.041', 30.86765916411477, 0.2716188533685133]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.59945029476803    every_rmse    0.2770340777313278    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.097', 29.509144931870534, 0.3343214631407776]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.088375338546776    every_rmse    0.3009824916198365    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.28', 28.03344922854957, 0.39923534091677015]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.726781498881504    every_rmse    0.31768273676785375    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 541.028110654572, 222.76438547897132]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+544.2466716831443    every_rmse    -227.70841344496114    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0089', 27.810675904740567, 0.4087455919299582]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.34223934430484    every_rmse    0.3352213117863184    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.035', 27.567489554108622, 0.41904065623699593]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.087392281816147    every_rmse    0.346718810188111    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.013', 30.786271147649767, 0.2754547998126443]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.454015584846005    every_rmse    0.23608898397872546    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 474.9577101331674, 171.4492015258899]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+466.85131375919906    every_rmse    -167.28590714259994    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    30    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:12', 'max_features:15', 'max_leaf_nodes:50', 'n_estimators:1820', 19.967943687167246, 0.6951978752691206]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.87721966203506    every_rmse    0.48295802436215574    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.088', 'max_depth:6', 'max_features:5', 'max_leaf_nodes:6', 'n_estimators:190', 20.71064844637167, 0.672102053242009]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.474972454604885    every_rmse    0.4989073601947709    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.1', 'max_depth:10', 'n_estimators:260', 'num_leaves:20', 20.5161377063622, 0.6782322493820448]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.946549911153028    every_rmse    0.48018379516622944    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 24.070791635486408, 0.5570731063030885]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.61385420518098    every_rmse    0.4531022654086466    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.024', 30.141827812895414, 0.30547085862840506]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.57843088985477    every_rmse    0.2780269775369726    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.1', 27.297541344698107, 0.43036276657334005]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.48639817524367    every_rmse    0.3734356824282753    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.0086', 23.4668541962394, 0.5790203975825972]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.48112269219057    every_rmse    0.4585437582056917    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.8114894173053, 222.58523613994893]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+544.099670970697    every_rmse    -227.58488210868916    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0037', 24.256245935349924, 0.5502217211118057]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.504892986379915    every_rmse    0.45757126539825177    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.015', 24.074954885773632, 0.5569198770271679]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.341014407843446    every_rmse    0.464258154569267    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.013', 28.494267903185712, 0.3793220599711554]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.81612670810201    every_rmse    0.31357510134452327    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 497.2891817201661, 188.04679831750622]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+480.7611092681407    every_rmse    -177.46342958134522    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    40    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:12', 'max_features:15', 'max_leaf_nodes:50', 'n_estimators:1190', 17.842457128322444, 0.7566335946141455]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.519468260101345    every_rmse    0.5728842611461533    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.084', 'max_depth:6', 'max_features:15', 'max_leaf_nodes:6', 'n_estimators:100', 19.043501708324026, 0.7227670016097114]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.77373675176668    every_rmse    0.5635992619374487    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.091', 'max_depth:12', 'n_estimators:60', 'num_leaves:20', 18.834331987180793, 0.7288236903304977]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.775611303624473    every_rmse    0.5635304390952893    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 22.16311006014046, 0.6244976062403087]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.30693469574638    every_rmse    0.5054961623244195    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.016', 29.814574865228515, 0.32047013952697345]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.994358654351757    every_rmse    0.30534408519458345    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.072', 25.817241804585503, 0.4904685580832837]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.901447966565602    every_rmse    0.44121866553549394    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.086', 21.670550285926506, 0.6410026995242366]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+24.879707805215116    every_rmse    0.522051471664853    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.7350297108928, 222.52201983117072]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.9787907578077    every_rmse    -227.48332601036756    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0028', 22.87452483137286, 0.6000041677313255]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.33388328891287    every_rmse    0.5044424370726996    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.011', 22.560882217757506, 0.6108980026800461]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.057675519003627    every_rmse    0.5151893631592538    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0084', 28.15112547566508, 0.39418108519988804]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.358899043824806    every_rmse    0.33446621214285455    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 508.98403364356426, 197.04305718664833]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+501.1388339803669    every_rmse    -192.9128966667981    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    55    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:16', 'max_features:35', 'max_leaf_nodes:50', 'n_estimators:90', 15.641934650442186, 0.8129609715586338]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.632266349479178    every_rmse    0.638677820907429    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.097', 'max_depth:6', 'max_features:15', 'max_leaf_nodes:6', 'n_estimators:300', 14.723884843729353, 0.8342719089522053]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.362688686763512    every_rmse    0.647627180943457    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.073', 'max_depth:6', 'n_estimators:210', 'num_leaves:20', 15.998235809555663, 0.8043429544206311]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.3845521918793    every_rmse    0.6469055445049702    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 20.67034464403253, 0.6733770181541125]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.57722599687686    every_rmse    0.5707839135718082    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.013', 29.820903664572533, 0.3201816185868639]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.915377794428313    every_rmse    0.3089975913598968    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.082', 26.116770207252536, 0.4785769335537867]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.847808761267224    every_rmse    0.4434447691530933    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.092', 19.993576106044944, 0.6944148371726628]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.39064672083508    every_rmse    0.5775502700067947    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6696044425697, 222.46793380892896]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+544.2974366214339    every_rmse    -227.75108126667152    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0026', 21.5684724009906, 0.6443768064064597]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+24.22302047365299    every_rmse    0.5469489199596125    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.01', 21.27137711735655, 0.6541064066678275]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+24.03752878705834    every_rmse    0.5538609765959561    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0076', 27.7302627050547, 0.4121598147574991]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.034257650463232    every_rmse    0.34910335881788723    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 511.9424437516212, 199.35195200217558]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+512.651095270468    every_rmse    -201.92444026924622    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    60    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:14', 'max_features:25', 'max_leaf_nodes:50', 'n_estimators:1290', 14.141899830932807, 0.8471143172175208]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.378025039179047    every_rmse    0.7100590196243892    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.11', 'max_depth:6', 'max_features:5', 'max_leaf_nodes:6', 'n_estimators:220', 14.346299940798579, 0.8426629088823586]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.100611607846943    every_rmse    0.7183011169346531    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.07', 'max_depth:10', 'n_estimators:140', 'num_leaves:20', 13.4469764062576, 0.8617705470178864]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.060424949398048    every_rmse    0.7481473603273554    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.92950073418226, 0.6963703760011669]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.471008745636322    every_rmse    0.6440446905908408    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.011', 30.041922487196995, 0.3100672731764198]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.017396379674665    every_rmse    0.3042765885925137    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.062', 24.97997698619564, 0.5229813362662459]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.499963187111135    every_rmse    0.49792374268843076    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.2', 19.058509880894835, 0.7223298550919702]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.59717933132524    every_rmse    0.6398489821880049    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6285080771847, 222.43396344789394]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.4508666164471    every_rmse    -227.04006118168363    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0021', 20.48162596914444, 0.6793138783059836]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.612702262867895    every_rmse    0.6051833069556606    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0085', 19.947447500038795, 0.6958232851969711]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.02652697248374    every_rmse    0.6253871865685989    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0067', 27.342649706819525, 0.4284785944629912]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.572599355340785    every_rmse    0.3696379188408112    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 517.0727998679006, 203.38766825732407]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+514.8903258854432    every_rmse    -203.70103650872088    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    70    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:20', 'max_features:45', 'max_leaf_nodes:50', 'n_estimators:1290', 12.454816415016131, 0.8814160358234202]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.071509282341292    every_rmse    0.7478381233988802    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.08', 'max_depth:6', 'max_features:10', 'max_leaf_nodes:8', 'n_estimators:480', 8.435034993080846, 0.9456092458072523]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.093843462214947    every_rmse    0.8240901084673589    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.079', 'max_depth:12', 'n_estimators:290', 'num_leaves:20', 9.14731317875769, 0.9360355896993406]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.464175140588118    every_rmse    0.8153522172843124    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.981691778912946, 0.7245637240162941]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.115503372131627    every_rmse    0.6557345373862511    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0086', 30.152590644947853, 0.30497477490523517]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.281295926899645    every_rmse    0.2919898359140374    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.049', 24.52426256671875, 0.5402272602599572]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.012521199762695    every_rmse    0.5169350614005066    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:1e-06', 17.179424349897587, 0.7743847153043174]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.858889822960162    every_rmse    0.6640513053970906    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5842021281239, 222.39734292932437]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.396650532498    every_rmse    -226.9945637019457    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.002', 19.595263448408033, 0.7064693089095315]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.491724353217702    every_rmse    0.6433574953319284    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.008', 19.151599625480042, 0.7196107159932172]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.990757593928663    every_rmse    0.6597902120715982    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0062', 27.042943151050846, 0.4409389780926747]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.16286937216204    every_rmse    0.3875870309701228    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 522.1340266851453, 207.40843700029603]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+521.0054150730375    every_rmse    -208.59216892587372    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_corr    80    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:22', 'max_features:35', 'max_leaf_nodes:50', 'n_estimators:1860', 12.454061103571004, 0.8814304182288264]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.84801730479253    every_rmse    0.7540365736518114    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.07', 'max_depth:6', 'max_features:15', 'max_leaf_nodes:8', 'n_estimators:580', 7.837802088084718, 0.9530387239191942]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.309827151867463    every_rmse    0.8190197629832722    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.068', 'max_depth:14', 'n_estimators:250', 'num_leaves:20', 9.312362312033368, 0.9337064871334594]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.270795661197063    every_rmse    0.8199413833034328    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.558496717020162, 0.7367084674379554]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.788528938250153    every_rmse    0.6663139167341621    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0074', 30.468771269391766, 0.2903222575169977]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.665332339761324    every_rmse    0.27391756757989516    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.046', 24.689716547739863, 0.5340025806111379]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.178493008935455    every_rmse    0.5105029896976312    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:1e-05', 16.985736962934745, 0.7794433826257275]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.2880075949482    every_rmse    0.6821886704730376    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5720843781447, 222.38732767991064]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.0736936802241    every_rmse    -226.72363628423759    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0018', 19.858255589805964, 0.6985373615944122]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.59696987157865    every_rmse    0.6398559679868404    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0073', 19.323116469697588, 0.7145660373626288]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.03061302115381    every_rmse    0.6584970639891585    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0058', 27.082473148135257, 0.43930336968006467]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.195007055193617    every_rmse    0.38618853969546496    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 524.9644156760519, 209.67404590792125]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+522.311251132238    every_rmse    -209.64411960790065    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_0    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:22', 'max_features:40', 'max_leaf_nodes:50', 'n_estimators:1190', 12.723309754038759, 0.8762482057490357]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.024106684106176    every_rmse    0.7491592583491774    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.11', 'max_depth:6', 'max_features:25', 'max_leaf_nodes:6', 'n_estimators:400', 9.019643074694457, 0.9378086466541853]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.20328056389547    every_rmse    0.8215300106162551    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.072', 'max_depth:8', 'n_estimators:240', 'num_leaves:20', 10.10685205181249, 0.9219122120594212]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.73217515259664    every_rmse    0.808896727780925    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.035677673453243, 0.7229947575230793]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.43448073863719    every_rmse    0.6775831057719057    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0089', 30.54264956419987, 0.28687654289781506]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.476885391604945    every_rmse    0.2828141022060642    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.043', 25.449041468790732, 0.5048985908338695]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.109490113337735    every_rmse    0.5131822944295094    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.048', 17.911816419049075, 0.7547378322134701]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.988230902599874    every_rmse    0.6915112767903823    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5975638850733, 222.40838660347495]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+542.952599824475    every_rmse    -226.6220925745675    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0022', 20.379997403672654, 0.6824884322811644]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.126647831060865    every_rmse    0.6553710447707856    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0087', 19.756473339188805, 0.7016196980438769]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.486238512034422    every_rmse    0.675947760645613    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0059', 27.95407905484319, 0.4026323751955363]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.522131020452022    every_rmse    0.37186279365689145    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 526.438089853021, 210.85850968759803]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+515.2008890201271    every_rmse    -203.94804743401502    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_1    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:18', 'max_features:55', 'max_leaf_nodes:50', 'n_estimators:120', 13.569335965266955, 0.8592434886335112]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.84925070640778    every_rmse    0.6957862694560846    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.081', 'max_depth:6', 'max_features:10', 'max_leaf_nodes:8', 'n_estimators:310', 11.735599203160827, 0.8947161296834139]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.80615199512607    every_rmse    0.7551891115311731    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.14', 'max_depth:8', 'n_estimators:120', 'num_leaves:20', 12.742640236956337, 0.875871888704466]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.639727146162656    every_rmse    0.7597439659572282    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.780408562017243, 0.7008962769065958]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.738598136541604    every_rmse    0.6007747970790622    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0092', 30.898680151443823, 0.27015411930044586]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.102271127183734    every_rmse    0.25307880493385515    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.052', 25.767481887328625, 0.4924307977999106]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.61043318604791    every_rmse    0.4532428558959193    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.015', 18.312970651099313, 0.7436289970342842]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.56774622812295    every_rmse    0.6733640455766323    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6122449922173, 222.42052105326118]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.3013728015458    every_rmse    -226.91461878411033    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.002', 20.942708389799044, 0.6647127839771421]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.34224590479267    every_rmse    0.6145711382067236    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0079', 20.50170982479866, 0.6786846536971602]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.570085730222253    every_rmse    0.6407520322858846    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0067', 27.804963676028912, 0.408988450720257]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+29.21060441023109    every_rmse    0.3411725828317129    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 523.574725598656, 208.56012614990058]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+510.3954867150751    every_rmse    -200.14267815824073    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_2    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:18', 'max_features:45', 'max_leaf_nodes:50', 'n_estimators:680', 13.071837466289967, 0.8693755177266365]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.640759102596995    every_rmse    0.7021434769888134    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.12', 'max_depth:6', 'max_features:10', 'max_leaf_nodes:6', 'n_estimators:880', 7.018967152837359, 0.9623384904297257]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.804083352133238    every_rmse    0.8071457559500883    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.086', 'max_depth:8', 'n_estimators:300', 'num_leaves:20', 9.675362809535548, 0.928437447566434]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.464852199552654    every_rmse    0.8153360482779197    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.021888751866342, 0.7233959221388355]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.18494616075412    every_rmse    0.6534664347006987    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0089', 30.69767909938427, 0.2796187718928861]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.809441676979123    every_rmse    0.2670771968605381    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.044', 25.850825897823796, 0.48914205840017944]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.035352924342654    every_rmse    0.4766195263347279    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.0016', 17.026923038359296, 0.7783724989165511]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.94696817354065    every_rmse    0.6927836203022009    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5729238901827, 222.38802152445695]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+542.9136023788669    every_rmse    -226.58939593992764    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0021', 20.75912678312866, 0.6705652060204895]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.2637982454604    every_rmse    0.5821197718451591    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0081', 20.269009051681262, 0.685937316709659]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.83754975627995    every_rmse    0.5972926180087761    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0067', 27.870958546724253, 0.40617959840460893]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.715825641619332    every_rmse    0.36330242910919675    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 524.6579019513542, 209.42810301023636]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+520.3075971394909    every_rmse    -208.03110286438533    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_3    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:22', 'max_features:50', 'max_leaf_nodes:50', 'n_estimators:1580', 12.739977145193501, 0.8759237664946481]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.561179426367865    every_rmse    0.7339877016409024    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.069', 'max_depth:6', 'max_features:10', 'max_leaf_nodes:6', 'n_estimators:820', 8.874401511929625, 0.9397954310113682]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.250820806984848    every_rmse    0.7960887529885401    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.1', 'max_depth:14', 'n_estimators:160', 'num_leaves:20', 10.008373579286383, 0.9234265315627044]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.31588373973029    every_rmse    0.7944526975074693    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.902417006912664, 0.7268595733312281]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.89109106538599    every_rmse    0.6630132524947214    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0083', 30.917020988819505, 0.2692874183690336]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.3940317338507    every_rmse    0.2389998130961598    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.065', 25.196379827203508, 0.5146806617129887]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.22377786902499    every_rmse    0.5087406334115648    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:1e-06', 17.583807681641662, 0.7636382733572855]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.037522442744073    every_rmse    0.5902092791351329    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5919861487222, 222.40377649520278]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.6603215657482    every_rmse    -227.2158758759965    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0019', 20.08256481841032, 0.691688546727707]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.93692860398082    every_rmse    0.6284286493080993    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0076', 19.660927915023052, 0.704498747894591]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.271698169698748    every_rmse    0.6506225251229705    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0077', 26.961357442414343, 0.4443071460477571]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.320152261724388    every_rmse    0.3807275701679341    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 525.9512001336484, 210.4668053977338]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+516.0642373521569    every_rmse    -204.63550668985198    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_4    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:16', 'max_features:40', 'max_leaf_nodes:50', 'n_estimators:1900', 13.174576191110695, 0.8673141501348715]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.149145350633624    every_rmse    0.7456668705253815    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.13', 'max_depth:4', 'max_features:30', 'max_leaf_nodes:6', 'n_estimators:370', 9.87990212454692, 0.9253797691689883]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.648951430840652    every_rmse    0.8109132649982459    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.09', 'max_depth:8', 'n_estimators:230', 'num_leaves:20', 11.13955334221303, 0.9051391834733825]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.532013204687031    every_rmse    0.8137286424364998    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.586436665254524, 0.7067336940469882]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.338138283284575    every_rmse    0.648436622500566    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0091', 30.864057255015215, 0.2717888312470367]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.908125782870417    every_rmse    0.2623745042888561    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.058', 25.804241106277097, 0.49098159481480197]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.239672907285513    every_rmse    0.5081212934537518    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.04', 18.07841361248355, 0.7501542649716575]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.325923398786536    every_rmse    0.6809996594746328    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6022057411486, 222.41222322464435]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+542.4126551654032    every_rmse    -226.16959553528326    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0017', 21.455683365224832, 0.648086435976561]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.158785053143212    every_rmse    0.6208749618566386    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.007', 20.93962797981041, 0.6648114098198443]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.374218012920174    every_rmse    0.6472467309442613    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0063', 27.963779475677267, 0.4022177149406103]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.58518354928771    every_rmse    0.36908253740983665    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 521.8516926144976, 207.18311211877008]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+519.505351564414    every_rmse    -207.38700311632422    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_5    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:16', 'max_features:40', 'max_leaf_nodes:50', 'n_estimators:1400', 13.922595445115954, 0.8518192763647798]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.950028045989576    every_rmse    0.722725269602202    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.086', 'max_depth:6', 'max_features:5', 'max_leaf_nodes:8', 'n_estimators:260', 12.590046380256352, 0.8788269711628816]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.090228036458278    every_rmse    0.7744793613451811    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.086', 'max_depth:10', 'n_estimators:150', 'num_leaves:20', 12.169871635838568, 0.8867799614222848]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.77495722849587    every_rmse    0.7827231679163948    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.317670463854924, 0.7147269074764007]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.601397805817722    every_rmse    0.6722943311689904    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.01', 30.5354840453598, 0.2872111111314821]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.42025130052667    every_rmse    0.28547706675941686    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.055', 25.90967120280116, 0.48681363711763603]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.159509434226788    every_rmse    0.5112408336989929    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:2e-06', 17.901531195503694, 0.7550194174993028]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.215029688114598    every_rmse    0.5090813342041164    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6035930889099, 222.41336991195772]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+542.9791287941531    every_rmse    -226.64433660514453    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0021', 20.4315670456753, 0.6808795337200381]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.547960414475174    every_rmse    0.6414886448593675    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0087', 19.920844588078182, 0.6966340746902968]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.971231358628163    every_rmse    0.6604228644733897    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0073', 27.433624548244396, 0.4246691197053932]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.15653362487106    every_rmse    0.3878625467430046    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 525.4357445441487, 210.05251474291228]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+523.6820737159344    every_rmse    -210.75125501791115    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_6    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:20', 'max_features:50', 'max_leaf_nodes:50', 'n_estimators:1790', 13.155184022096487, 0.8677044735412582]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.873724245296973    every_rmse    0.7249537117244336    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.097', 'max_depth:8', 'max_features:65', 'max_leaf_nodes:10', 'n_estimators:290', 7.052249826871724, 0.9619804754691011]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.028316919525096    every_rmse    0.8016343729666093    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.08', 'max_depth:10', 'n_estimators:220', 'num_leaves:20', 10.398099135229828, 0.9173468878109448]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.29319239674514    every_rmse    0.795024030459034    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.612523278305932, 0.7351732739893679]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.068799968095203    every_rmse    0.6890193363442607    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0092', 30.664519439146595, 0.28117424421290804]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.6788535812734    every_rmse    0.2732771244738541    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.055', 25.81109926519933, 0.490710988676373]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.231149369713037    every_rmse    0.46871785760302953    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.0076', 16.990070004850825, 0.7793308407952957]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.18140891969654    every_rmse    0.6855196297862711    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5714314697467, 222.38678806131622]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.7516915323639    every_rmse    -227.29259226812243    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0022', 20.721967172446803, 0.6717435515545284]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.693335506049415    every_rmse    0.6366348738884484    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0082', 20.19321032510493, 0.6882818851434787]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.219662117371755    every_rmse    0.6523297689606633    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0072', 27.38014687395963, 0.42690997338689096]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.44565540085072    every_rmse    0.37522669249151097    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 524.7986428307686, 209.54101395058234]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+519.8865795408542    every_rmse    -207.69295609270293    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_7    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:16', 'max_features:25', 'max_leaf_nodes:50', 'n_estimators:1290', 13.432460253210662, 0.8620688262418835]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.75922363097757    every_rmse    0.7282808176920791    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.077', 'max_depth:6', 'max_features:25', 'max_leaf_nodes:6', 'n_estimators:340', 11.37213288460748, 0.901136688066894]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.010738624828793    every_rmse    0.776572348437959    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.12', 'max_depth:12', 'n_estimators:240', 'num_leaves:20', 9.487014572237056, 0.9311965146031501]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.627175639212288    every_rmse    0.8114391339119672    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.302035038812832, 0.7439350901160218]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.13868756540187    every_rmse    0.6868496466633343    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0096', 30.49225442260625, 0.2892278980963434]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.587423930935124    every_rmse    0.2776022541218509    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.061', 24.62976854703194, 0.5362627684884729]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.057368096333885    every_rmse    0.5152012589846201    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.035', 17.07628157567738, 0.77708570566154]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.753953370162716    every_rmse    0.6987003507472599    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5707689003456, 222.3862404587199]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.8700638327649    every_rmse    -227.3919996306429    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0017', 20.169081056743916, 0.689026396403696]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.09648126439692    every_rmse    0.6230039340710389    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0073', 19.52590842965405, 0.7085434631693586]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.3492428497185    every_rmse    0.6480706135584864    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0075', 26.96771482760653, 0.44404505464278476]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.10101083122509    every_rmse    0.39027435434249613    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 521.3656922953575, 206.7955309447363]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+514.8773090401539    every_rmse    -203.6906866228998    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_8    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:18', 'max_features:65', 'max_leaf_nodes:50', 'n_estimators:1200', 14.200797819310864, 0.8458381930028951]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.672427061570605    every_rmse    0.7307894217313692    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.097', 'max_depth:6', 'max_features:5', 'max_leaf_nodes:10', 'n_estimators:260', 12.447911918909213, 0.8815474766324504]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.533582359183562    every_rmse    0.7626266860884888    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.12', 'max_depth:6', 'n_estimators:190', 'num_leaves:20', 13.425015088759663, 0.862221685161006]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.920086333118533    every_rmse    0.7789473493675618    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 19.861737794323762, 0.6984316275740742]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.94585086072432    every_rmse    0.6612443156569812    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0089', 30.942182018126204, 0.26809759080025175]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+31.019919091378345    every_rmse    0.25702893755113976    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.049', 26.06220918054351, 0.4807532869519556]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.192675933082853    every_rmse    0.4702751862287329    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.011', 18.483265564859455, 0.7388387668965554]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+19.8150079519293    every_rmse    0.696834987187688    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.6188880345902, 222.4260118689834]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+542.9611581186381    every_rmse    -226.62926842078335    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0019', 21.90635217453906, 0.6331475412656178]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+23.03261751426554    every_rmse    0.5903837579843805    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0074', 21.54825351199586, 0.6450432361419307]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.43511198960543    every_rmse    0.6113603905213021    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0059', 28.25242647964708, 0.38981319706362616]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.997413436979624    every_rmse    0.3507542746954724    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 521.9292382392042, 207.24498751043203]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+518.0998260342537    every_rmse    -206.26094333760162    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_random    des_random_9    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:16', 'max_features:30', 'max_leaf_nodes:50', 'n_estimators:920', 13.157575919808707, 0.8676563607768712]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+18.91174320032272    every_rmse    0.7238444971874018    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.09', 'max_depth:6', 'max_features:30', 'max_leaf_nodes:8', 'n_estimators:250', 9.465781971430191, 0.9315041439751008]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.448633889319737    every_rmse    0.7910943210623416    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.096', 'max_depth:6', 'n_estimators:250', 'num_leaves:20', 11.043445432940796, 0.9067689698701578]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+16.78154712321807    every_rmse    0.7825524237921976    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.876725028124145, 0.7276015682808721]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.061416357345657    every_rmse    0.657495939239106    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.01', 30.19765083944516, 0.302895923832996]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.301607023014096    every_rmse    0.2910397256310855    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.041', 25.55268265196032, 0.5008577799653278]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+26.218857247421603    every_rmse    0.46921566689318983    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:1e-06', 16.77599237967312, 0.7848567405295932]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.266554767626374    every_rmse    0.682860431545875    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5682092612134, 222.38412496583044]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.2265924371349    every_rmse    -226.85188246074208    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0022', 19.70678331098875, 0.7031187388970808]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.821521327500612    every_rmse    0.6323279407734497    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0086', 19.248819290337046, 0.7167567986845498]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.14422964919466    every_rmse    0.6547971984200172    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0063', 27.669510772356006, 0.4147326939294884]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.868609205875263    every_rmse    0.356509261598979    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 524.4249289084422, 209.24126434534435]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+521.7949398008215    every_rmse    -209.22787664431868    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_mlr_ff-ori    mlr_ff_multifinal    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:18', 'max_features:30', 'max_leaf_nodes:50', 'n_estimators:1490', 12.47447267721475, 0.8810414406871603]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.871124533023128    every_rmse    0.7533992802122662    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.059', 'max_depth:6', 'max_features:5', 'max_leaf_nodes:8', 'n_estimators:640', 8.91803198041808, 0.9392019914006929]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.71739035842969    every_rmse    0.809255749324767    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.09', 'max_depth:14', 'n_estimators:160', 'num_leaves:20', 9.650910362518399, 0.9287987091190494]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+14.835751057687288    every_rmse    0.8300545067223741    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.516648078017646, 0.7378945515759127]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.922640232306914    every_rmse    0.6619946672105472    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0092', 30.35093140113026, 0.29580108776300995]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.487556206028888    every_rmse    0.28231180039390147    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.043', 25.107259426162337, 0.5181077701120466]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+25.67740352732745    every_rmse    0.490912082264504    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.0046', 16.35609711080924, 0.7954918290885917]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.07057105155587    every_rmse    0.6889644454674897    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.5548410379786, 222.3730765472456]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.2035517478662    every_rmse    -226.83255441914417    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0018', 20.24560435472702, 0.6866621965555204]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+22.08277734140045    every_rmse    0.6234714042492135    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0079', 19.54623360753568, 0.7079363734481154]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.26897748333982    every_rmse    0.6507118913535528    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 525.878597943761, 210.40842776308895]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+528.3396227073553    every_rmse    -214.5345717923527    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.0064', 27.451622506987494, 0.42391397500473194]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.535112354418892    every_rmse    0.3712908928803903    every_r2
+
+
+
+slf    emlb    dl1ss    dl2ss    fr_4_s_n    des_rf_ff    rf_ff_final    all
+rf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'max_depth:28', 'max_features:45', 'max_leaf_nodes:50', 'n_estimators:1290', 12.310805407185802, 0.8841424776155103]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+17.7398051192442    every_rmse    0.7570100751451845    every_r2
+
+
+
+gbrt    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.095', 'max_depth:6', 'max_features:20', 'max_leaf_nodes:8', 'n_estimators:330', 8.156606620379492, 0.9491407046647493]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.530067536537645    every_rmse    0.8137753072883485    every_r2
+
+
+
+lgbm    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'learning_rate:0.063', 'max_depth:14', 'n_estimators:210', 'num_leaves:20', 9.54786622716327, 0.9303110445883975]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+15.380861730038653    every_rmse    0.8173364416784372    every_r2
+
+
+
+svm_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 18.292058341559212, 0.744214183209349]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.605060233633694    every_rmse    0.6721778046059543    every_r2
+
+
+
+svm_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0064', 30.551636597712307, 0.286456814590788]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+30.569127113153506    every_rmse    0.2784662449370964    every_r2
+
+
+
+svm_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:0', 'gamma:0.039', 24.854879267094756, 0.5277471153274005]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+24.842927508662758    every_rmse    0.5234635537473666    every_r2
+
+
+
+la    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'alpha:0.00078', 16.350805080186323, 0.7956241453021825]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.153512983804816    every_rmse    0.6863884156270081    every_r2
+
+
+
+krr_linear    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 540.552057181828, 222.3707758115401]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+543.0849261031691    every_rmse    -226.733056422534    every_r2
+
+
+
+krr_rbf    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.0015', 19.59433927734308, 0.7064969958222473]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+21.038210613350618    every_rmse    0.6582502743490927    every_r2
+
+
+
+krr_laplacian    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'gamma:0.006', 19.00641660050003, 0.723845711295704]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+20.28833307186909    every_rmse    0.6821784732092392    every_r2
+
+
+
+krr_cosine    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 526.5148538430761, 210.920299632393]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+523.0482711072563    every_rmse    -210.23900802861306    every_r2
+
+
+
+krr_sigmoid    for j in learner_tot_dict
+>>>>  last curr_p_and_r_list  <<<<
+[{}, 'coef0:2', 'gamma:0.005', 27.127563970238498, 0.4374347575583759]
+[]
+>>>>>>>>>>>>>>>>--<<<<<<<<<<<<<<<<
+28.000143312407324    every_rmse    0.3946436729214394    every_r2
+
+
+
