@@ -1,0 +1,133 @@
+,target name,complex feature set,feature selection parameter 1,feature selection parameter 2,learner algorithm,duality set RMSE,duality set R^2,test set RMSE,test set R^2,learner parameter dict
+1,emev,I_01cn,II_ps,50,III_la,0.100,0.893,0.100,0.860,{'alpha': [0.00065]}
+2,emev,I_13a,II_sp,52,III_la,0.100,0.868,0.100,0.846,{'alpha': [0.00034]}
+3,emev,I_01cd,II_sp,140,III_la,0.000,0.910,0.100,0.845,{'alpha': [0.00037]}
+4,emev,I_13cn,II_r2r,146,III_la,0.100,0.898,0.100,0.844,{'alpha': [0.00033]}
+5,emev,I_01cl,II_sp,64,III_la,0.100,0.880,0.100,0.839,{'alpha': [0.0006]}
+6,emev,I_12cn,II_sp,68,III_la,0.100,0.847,0.100,0.838,{'alpha': [0.00053]}
+7,emev,I_01cg,II_sp,186,III_la,0.100,0.855,0.100,0.832,{'alpha': [0.002]}
+8,emev,I_12a,II_ps,60,III_la,0.100,0.855,0.100,0.829,{'alpha': [0.00061]}
+9,emev,I_01ch,II_r2r,144,III_la,0.000,0.914,0.100,0.824,{'alpha': [0.0003]}
+10,emev,I_11a,II_sp,90,III_la,0.100,0.847,0.100,0.818,{'alpha': [0.00074]}
+11,emev,I_11cl,II_r2r,132,III_la,0.100,0.840,0.100,0.814,{'alpha': [0.001]}
+12,emev,I_13cl,II_r2r,50,III_la,0.100,0.856,0.100,0.813,{'alpha': [0.0008]}
+13,emev,I_02cl,II_sp,154,III_la,0.100,0.860,0.100,0.812,{'alpha': [0.00055]}
+14,emev,I_12cl,II_r2r,6,III_la,0.100,0.824,0.100,0.810,{'alpha': [0.00063]}
+15,emev,I_01cp,II_ps,40,III_la,0.100,0.879,0.100,0.810,{'alpha': [8.1e-05]}
+16,emev,I_02cn,II_r2r,90,III_la,0.100,0.840,0.100,0.806,{'alpha': [0.00059]}
+17,emev,I_13cg,II_sp,167,III_la,0.100,0.879,0.100,0.806,{'alpha': [0.00071]}
+18,emev,I_12cp,II_r2r,86,III_la,0.100,0.845,0.100,0.804,{'alpha': [0.00048]}
+19,emev,I_01a,II_ps,84,III_la,0.100,0.849,0.100,0.803,{'alpha': [0.00049]}
+20,emev,I_02a,II_sp,100,III_la,0.100,0.879,0.100,0.799,{'alpha': [0.00071]}
+21,emev,I_11cn,II_ps,20,III_la,0.100,0.744,0.100,0.798,{'alpha': [0.00077]}
+22,emev,I_13cp,II_ps,94,III_la,0.100,0.855,0.100,0.797,{'alpha': [0.00055]}
+23,emev,I_02cp,II_r2r,108,III_la,0.100,0.857,0.100,0.782,{'alpha': [0.00048]}
+24,emev,I_13ch,II_r2r,130,III_la,0.100,0.859,0.100,0.777,{'alpha': [0.00088]}
+25,emev,I_02cg,II_sp,20,III_mlr,0.100,0.803,0.100,0.777,{}
+26,emev,I_12ch,II_ps,116,III_la,0.100,0.831,0.100,0.775,{'alpha': [0.0014]}
+27,emev,I_11ch,II_ps,82,III_la,0.100,0.790,0.100,0.774,{'alpha': [0.00066]}
+28,emev,I_12cg,II_r2r,114,III_la,0.100,0.849,0.100,0.774,{'alpha': [0.00056]}
+29,emev,I_02cd,II_sp,86,III_la,0.100,0.810,0.100,0.772,{'alpha': [0.0012]}
+30,emev,I_13cd,II_sp,128,III_la,0.100,0.859,0.100,0.769,{'alpha': [0.0005]}
+31,emev,I_12cd,II_sp,102,III_la,0.100,0.803,0.100,0.757,{'alpha': [0.00094]}
+32,emev,I_11cg,II_r2r,130,III_la,0.100,0.776,0.100,0.746,{'alpha': [0.00082]}
+33,emev,I_10cl,II_sp,24,III_la,0.100,0.738,0.100,0.729,{'alpha': [0.00036]}
+34,emev,I_11cd,II_sp,22,III_la,0.100,0.684,0.100,0.728,{'alpha': [0.0005]}
+35,emev,I_02ch,II_sp,146,III_la,0.100,0.842,0.100,0.727,{'alpha': [0.00069]}
+36,emev,I_11cp,II_ps,110,III_la,0.100,0.764,0.100,0.692,{'alpha': [0.00044]}
+37,emev,I_10ch,II_ps,114,III_la,0.100,0.695,0.100,0.675,{'alpha': [0.0014]}
+38,emev,I_10a,II_ps,32,III_la,0.100,0.742,0.100,0.645,{'alpha': [1e-06]}
+39,emev,I_10cn,II_sp,12,III_la,0.100,0.591,0.100,0.633,{'alpha': [0.0014]}
+40,emev,I_10cd,II_ps,78,III_la,0.100,0.629,0.100,0.628,{'alpha': [0.0011]}
+41,emev,I_12s3l,II_ps,56,III_la,0.100,0.538,0.100,0.609,{'alpha': [0.00062]}
+42,emev,I_13s3l,II_ps,76,III_la,0.100,0.547,0.100,0.604,{'alpha': [0.00075]}
+43,emev,I_02s3l,II_r2r,4,III_svm_sig,0.100,0.507,0.100,0.600,"{'coef0': [0], 'gamma': [0.0092]}"
+44,emev,I_01s3l,II_r2r,60,III_dtr,0.100,0.603,0.100,0.582,"{'max_depth': [6], 'max_features': [20], 'max_leaf_nodes': [8]}"
+45,emev,I_10cg,II_ps,20,III_svm_rbf,0.100,0.575,0.100,0.578,{'gamma': [0.00042]}
+46,emev,I_11s3l,II_r2r,6,III_la,0.100,0.476,0.100,0.573,{'alpha': [0.00025]}
+47,emev,I_02s3g,II_sp,20,III_mlr,0.100,0.490,0.100,0.564,{}
+48,emev,I_12s3g,II_ps,4,III_la,0.100,0.486,0.100,0.554,{'alpha': [7.2e-05]}
+49,emev,I_01s1h,II_ps,76,III_la,0.100,0.589,0.100,0.552,{'alpha': [0.001]}
+50,emev,I_02s3p,II_ps,26,III_la,0.100,0.605,0.100,0.543,{'alpha': [0.00045]}
+51,emev,I_13s3g,II_sp,62,III_svm_sig,0.100,0.465,0.100,0.539,"{'coef0': [0], 'gamma': [0.0015]}"
+52,emev,I_02s1l,II_r2r,18,III_mlr,0.100,0.570,0.100,0.537,{}
+53,emev,I_10cp,II_r2r,4,III_svm_sig,0.100,0.553,0.100,0.535,"{'coef0': [0], 'gamma': [0.008]}"
+54,emev,I_01s3g,II_ps,68,III_svm_rbf,0.100,0.507,0.100,0.525,{'gamma': [0.0019]}
+55,emev,I_13s1h,II_sp,125,III_la,0.100,0.555,0.100,0.525,{'alpha': [0.0033]}
+56,emev,I_01s1l,II_sp,66,III_la,0.100,0.535,0.100,0.523,{'alpha': [0.0026]}
+57,emev,I_12s1h,II_ps,89,III_svm_sig,0.100,0.553,0.100,0.522,"{'coef0': [0], 'gamma': [0.0016]}"
+58,emev,I_01s3p,II_r2r,76,III_dtr,0.100,0.565,0.100,0.517,"{'max_depth': [2], 'max_features': [20], 'max_leaf_nodes': [4]}"
+59,emev,I_02s1h,II_ps,111,III_la,0.100,0.605,0.100,0.517,{'alpha': [0.00047]}
+60,emev,I_13s3p,II_sp,132,III_la,0.100,0.620,0.100,0.507,{'alpha': [0.00091]}
+61,emev,I_01s1d,II_r2r,97,III_svm_rbf,0.100,0.585,0.100,0.505,{'gamma': [0.0016]}
+62,emev,I_01s1g,II_ps,98,III_la,0.100,0.541,0.100,0.503,{'alpha': [0.00074]}
+63,emev,I_12s3p,II_r2r,24,III_la,0.100,0.531,0.100,0.497,{'alpha': [0.00072]}
+64,emev,I_13s1l,II_r2r,122,III_la,0.100,0.532,0.100,0.490,{'alpha': [0.0058]}
+65,emev,I_12s1l,II_ps,30,III_la,0.100,0.528,0.100,0.470,{'alpha': [0.00057]}
+66,emev,I_12s3h,II_ps,121,III_la,0.100,0.548,0.100,0.465,{'alpha': [0.0011]}
+67,emev,I_11s1l,II_sp,54,III_la,0.100,0.545,0.100,0.463,{'alpha': [0.00083]}
+68,emev,I_02s3h,II_sp,32,III_svm_lin,0.100,0.483,0.100,0.462,{}
+69,emev,I_01s3h,II_ps,80,III_la,0.100,0.525,0.100,0.449,{'alpha': [0.00062]}
+70,emev,I_11s3g,II_r2r,4,III_svm_sig,0.100,0.381,0.100,0.447,"{'coef0': [0], 'gamma': [0.0069]}"
+71,emev,I_13s3h,II_r2r,38,III_la,0.100,0.509,0.100,0.446,{'alpha': [0.00041]}
+72,emev,I_11s3h,II_ps,70,III_la,0.100,0.507,0.100,0.442,{'alpha': [0.00089]}
+73,emev,I_11s3p,II_r2r,12,III_la,0.100,0.419,0.100,0.441,{'alpha': [0.00033]}
+74,emev,I_11s1h,II_r2r,38,III_svm_sig,0.100,0.473,0.100,0.423,"{'coef0': [0], 'gamma': [0.003]}"
+75,emev,I_02s1p,II_ps,82,III_la,0.100,0.384,0.100,0.420,{'alpha': [0.0013]}
+76,emev,I_13s1p,II_r2r,68,III_la,0.100,0.399,0.100,0.419,{'alpha': [0.00098]}
+77,emev,I_01s1p,II_r2r,20,III_mlr,0.100,0.398,0.100,0.418,{}
+78,emev,I_12s1p,II_r2r,42,III_la,0.100,0.378,0.100,0.410,{'alpha': [0.001]}
+79,emev,I_02s3d,II_r2r,54,III_la,0.100,0.467,0.100,0.401,{'alpha': [0.00074]}
+80,emev,I_12s1d,II_sp,16,III_la,0.100,0.426,0.100,0.394,{'alpha': [0.00022]}
+81,emev,I_02s1g,II_sp,84,III_la,0.100,0.463,0.100,0.389,{'alpha': [0.0013]}
+82,emev,I_10s3g,II_ps,13,III_svm_rbf,0.100,0.341,0.100,0.382,{'gamma': [0.0066]}
+83,emev,I_01s3d,II_sp,96,III_la,0.100,0.349,0.100,0.380,{'alpha': [0.0026]}
+84,emev,I_13s1g,II_sp,84,III_la,0.100,0.398,0.100,0.368,{'alpha': [0.002]}
+85,emev,I_02s1d,II_r2r,82,III_la,0.100,0.480,0.100,0.363,{'alpha': [0.002]}
+86,emev,I_10s3l,II_r2r,64,III_dtr,0.100,0.298,0.100,0.349,"{'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [6]}"
+87,emev,I_12s1g,II_sp,20,III_svm_sig,0.100,0.346,0.100,0.348,"{'coef0': [0], 'gamma': [0.0003]}"
+88,emev,I_13s3d,II_r2r,88,III_svm_sig,0.100,0.325,0.100,0.332,"{'coef0': [0], 'gamma': [0.0012]}"
+89,emev,I_12s3d,II_sp,12,III_svm_rbf,0.100,0.336,0.100,0.326,{'gamma': [0.0095]}
+90,emev,I_11s1p,II_sp,30,III_la,0.100,0.278,0.100,0.320,{'alpha': [0.00074]}
+91,emev,I_10s3d,II_sp,32,III_svm_rbf,0.100,0.287,0.100,0.312,{'gamma': [0.0018]}
+92,emev,I_11s3d,II_sp,4,III_svm_rbf,0.100,0.291,0.100,0.308,{'gamma': [0.002]}
+93,emev,I_11s1g,II_sp,9,III_la,0.100,0.254,0.100,0.303,{'alpha': [0.0021]}
+94,emev,I_01s2l,II_sp,4,III_la,0.100,0.246,0.100,0.303,{'alpha': [0.00029]}
+95,emev,I_10s3p,II_sp,5,III_svm_sig,0.100,0.243,0.100,0.292,"{'coef0': [0], 'gamma': [0.008]}"
+96,emev,I_13s1d,II_r2r,40,III_svm_lin,0.100,0.390,0.100,0.288,{}
+97,emev,I_10s2l,II_sp,4,III_svm_lin,0.100,0.202,0.100,0.287,{}
+98,emev,I_10s2p,II_sp,4,III_svm_lin,0.100,0.202,0.100,0.287,{}
+99,emev,I_10s2h,II_sp,4,III_svm_lin,0.100,0.202,0.100,0.287,{}
+100,emev,I_10s2g,II_sp,4,III_svm_lin,0.100,0.202,0.100,0.287,{}
+101,emev,I_10s2d,II_sp,4,III_svm_lin,0.100,0.202,0.100,0.287,{}
+102,emev,I_11s2l,II_r2r,4,III_mlr,0.100,0.217,0.100,0.276,{}
+103,emev,I_11s2p,II_r2r,4,III_mlr,0.100,0.217,0.100,0.276,{}
+104,emev,I_11s2h,II_r2r,4,III_mlr,0.100,0.217,0.100,0.276,{}
+105,emev,I_11s2g,II_r2r,4,III_mlr,0.100,0.217,0.100,0.276,{}
+106,emev,I_11s2d,II_r2r,4,III_mlr,0.100,0.217,0.100,0.276,{}
+107,emev,I_10s3h,II_r2r,84,III_svm_rbf,0.100,0.403,0.100,0.265,{'gamma': [0.0053]}
+108,emev,I_01s2h,II_r2r,6,III_svm_sig,0.100,0.240,0.100,0.257,"{'coef0': [0], 'gamma': [0.0078]}"
+109,emev,I_10s1h,II_sp,5,III_svm_rbf,0.100,0.281,0.100,0.251,{'gamma': [0.31]}
+110,emev,I_02s2l,II_r2r,80,III_svm_sig,0.100,0.204,0.100,0.249,"{'coef0': [0], 'gamma': [0.0014]}"
+111,emev,I_02s2p,II_r2r,80,III_svm_sig,0.100,0.204,0.100,0.249,"{'coef0': [0], 'gamma': [0.0014]}"
+112,emev,I_02s2h,II_r2r,80,III_svm_sig,0.100,0.204,0.100,0.249,"{'coef0': [0], 'gamma': [0.0014]}"
+113,emev,I_02s2g,II_r2r,80,III_svm_sig,0.100,0.204,0.100,0.249,"{'coef0': [0], 'gamma': [0.0014]}"
+114,emev,I_02s2d,II_r2r,80,III_svm_sig,0.100,0.204,0.100,0.249,"{'coef0': [0], 'gamma': [0.0014]}"
+115,emev,I_12s2l,II_sp,80,III_svm_rbf,0.100,0.212,0.100,0.248,{'gamma': [0.00018]}
+116,emev,I_12s2p,II_sp,80,III_svm_rbf,0.100,0.212,0.100,0.248,{'gamma': [0.00018]}
+117,emev,I_12s2h,II_sp,80,III_svm_rbf,0.100,0.212,0.100,0.248,{'gamma': [0.00018]}
+118,emev,I_12s2g,II_sp,80,III_svm_rbf,0.100,0.212,0.100,0.248,{'gamma': [0.00018]}
+119,emev,I_12s2d,II_sp,80,III_svm_rbf,0.100,0.212,0.100,0.248,{'gamma': [0.00018]}
+120,emev,I_01s2g,II_r2r,20,III_svm_rbf,0.100,0.243,0.100,0.246,{'gamma': [0.0028]}
+121,emev,I_13s2l,II_sp,100,III_svm_rbf,0.100,0.212,0.100,0.240,{'gamma': [8e-05]}
+122,emev,I_13s2p,II_sp,100,III_svm_rbf,0.100,0.212,0.100,0.240,{'gamma': [8e-05]}
+123,emev,I_13s2h,II_sp,100,III_svm_rbf,0.100,0.212,0.100,0.240,{'gamma': [8e-05]}
+124,emev,I_13s2g,II_sp,100,III_svm_rbf,0.100,0.212,0.100,0.240,{'gamma': [8e-05]}
+125,emev,I_13s2d,II_sp,100,III_svm_rbf,0.100,0.212,0.100,0.240,{'gamma': [8e-05]}
+126,emev,I_01s2d,II_sp,14,III_svm_rbf,0.100,0.225,0.100,0.234,{'gamma': [0.00044]}
+127,emev,I_10s1l,II_r2r,7,III_svm_sig,0.100,0.228,0.100,0.234,"{'coef0': [0], 'gamma': [0.0026]}"
+128,emev,I_01s2p,II_sp,44,III_svm_sig,0.100,0.228,0.100,0.228,"{'coef0': [0], 'gamma': [0.0021]}"
+129,emev,I_11s1d,II_sp,16,III_mlr,0.100,0.261,0.100,0.221,{}
+130,emev,I_10s1p,II_sp,7,III_mlr,0.100,0.196,0.100,0.214,{}
+131,emev,I_10s1g,II_ps,9,III_la,0.100,0.257,0.100,0.187,{'alpha': [0.0005]}
+132,emev,I_10s1d,II_sp,6,III_dtr,0.100,0.148,0.100,0.090,"{'max_depth': [8], 'max_features': [6], 'max_leaf_nodes': [14]}"

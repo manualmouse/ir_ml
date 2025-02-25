@@ -70,3 +70,8 @@ To easily connect and transform QM-free feature sets and original generated comp
 
 ### 5.5 Training QM-free meta learners
 Likewise, file **slf_emlb_oa2n_tro_ijsd3re_gen.py** generates configure files for meta learner training.
+
+
+
+### copyright and citation
++ This work is registered as a software with the code **2024SR0831144**

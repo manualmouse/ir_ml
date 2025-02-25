@@ -1,0 +1,133 @@
+,target name,complex feature set,feature selection parameter 1,feature selection parameter 2,learner algorithm,training set RMSE,training set R^2,duality set RMSE,duality set R^2,test set RMSE,test set R^2,learner parameter dict
+1,emev,i_01cn,ii_corr,60,iii_gbrt,0.013,0.993,0.100,0.883,0.100,0.860,"{'learning_rate': [0.082], 'max_depth': [8], 'max_features': [15], 'max_leaf_nodes': [22], 'n_estimators': [120]}"
+2,emev,i_01cl,ii_rf,rf_ff_final,iii_gbrt,0.003,1.000,0.100,0.839,0.100,0.840,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [20], 'max_leaf_nodes': [18], 'n_estimators': [330]}"
+3,emev,i_13cn,ii_corr,70,iii_gbrt,0.019,0.986,0.100,0.820,0.100,0.834,"{'learning_rate': [0.083], 'max_depth': [6], 'max_features': [45], 'max_leaf_nodes': [8], 'n_estimators': [800]}"
+4,emev,i_12cn,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.034,0.951,0.100,0.797,0.100,0.831,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [10], 'n_estimators': [330]}"
+5,emev,i_01cd,ii_random,des_random_3,iii_gbrt,0.013,0.993,0.100,0.812,0.100,0.830,"{'learning_rate': [0.081], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [12], 'n_estimators': [320]}"
+6,emev,i_13a,ii_random,des_random_3,iii_lgbm,0.036,0.945,0.100,0.808,0.100,0.825,"{'learning_rate': [0.09], 'max_depth': [8], 'n_estimators': [270], 'num_leaves': [20]}"
+7,emev,i_12cl,ii_rf,rf_ff_final,iii_lgbm,0.025,0.975,0.100,0.804,0.100,0.822,"{'learning_rate': [0.15], 'max_depth': [14], 'n_estimators': [260], 'num_leaves': [20]}"
+8,emev,i_01cg,ii_random,des_random_1,iii_gbrt,0.010,0.996,0.100,0.825,0.100,0.821,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [60], 'max_leaf_nodes': [14], 'n_estimators': [250]}"
+9,emev,i_12a,ii_random,des_random_0,iii_gbrt,0.027,0.968,0.100,0.802,0.100,0.812,"{'learning_rate': [0.088], 'max_depth': [6], 'max_features': [35], 'max_leaf_nodes': [8], 'n_estimators': [450]}"
+10,emev,i_13cl,ii_rf,rf_ff_final,iii_lgbm,0.032,0.957,0.100,0.808,0.100,0.810,"{'learning_rate': [0.07], 'max_depth': [14], 'n_estimators': [260], 'num_leaves': [20]}"
+11,emev,i_01ch,ii_corr,150,iii_lgbm,0.004,0.999,0.100,0.826,0.100,0.807,"{'learning_rate': [0.02], 'max_depth': [18], 'n_estimators': [2090], 'num_leaves': [20]}"
+12,emev,i_11cn,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.055,0.873,0.100,0.727,0.100,0.800,"{'learning_rate': [0.12], 'max_depth': [4], 'max_features': [20], 'max_leaf_nodes': [6], 'n_estimators': [340]}"
+13,emev,i_02cl,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.023,0.978,0.100,0.778,0.100,0.799,"{'learning_rate': [0.07], 'max_depth': [6], 'max_features': [75], 'max_leaf_nodes': [14], 'n_estimators': [400]}"
+14,emev,i_11cl,ii_rf,rf_ff_final,iii_gbrt,0.037,0.941,0.100,0.796,0.100,0.793,"{'learning_rate': [0.12], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [6], 'n_estimators': [460]}"
+15,emev,i_02cn,ii_random,des_random_5,iii_lgbm,0.041,0.930,0.100,0.787,0.100,0.791,"{'learning_rate': [0.071], 'max_depth': [14], 'n_estimators': [380], 'num_leaves': [20]}"
+16,emev,i_01cp,ii_corr,100,iii_gbrt,0.026,0.972,0.100,0.792,0.100,0.791,"{'learning_rate': [0.093], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [6], 'n_estimators': [340]}"
+17,emev,i_02a,ii_la,la_ff_final,iii_gbrt,0.033,0.955,0.100,0.773,0.100,0.790,"{'learning_rate': [0.069], 'max_depth': [4], 'max_features': [20], 'max_leaf_nodes': [8], 'n_estimators': [710]}"
+18,emev,i_13cg,ii_rf,rf_ff_final,iii_lgbm,0.032,0.958,0.100,0.771,0.100,0.790,"{'learning_rate': [0.08], 'max_depth': [16], 'n_estimators': [350], 'num_leaves': [20]}"
+19,emev,i_13cp,ii_corr,150,iii_gbrt,0.008,0.998,0.100,0.761,0.100,0.785,"{'learning_rate': [0.091], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [26], 'n_estimators': [650]}"
+20,emev,i_12cg,ii_rf,rf_ff_final,iii_lgbm,0.043,0.921,0.100,0.760,0.100,0.782,"{'learning_rate': [0.088], 'max_depth': [8], 'n_estimators': [280], 'num_leaves': [20]}"
+21,emev,i_02cg,ii_la,la_ff_final,iii_gbrt,0.030,0.962,0.100,0.750,0.100,0.781,"{'learning_rate': [0.061], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [14], 'n_estimators': [380]}"
+22,emev,i_11a,ii_la,la_ff_final,iii_gbrt,0.049,0.901,0.100,0.761,0.100,0.775,"{'learning_rate': [0.091], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [350]}"
+23,emev,i_12cp,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.045,0.914,0.100,0.755,0.100,0.773,"{'learning_rate': [0.15], 'max_depth': [6], 'n_estimators': [230], 'num_leaves': [20]}"
+24,emev,i_13ch,ii_la,la_ff_final,iii_lgbm,0.027,0.969,0.100,0.803,0.100,0.771,"{'learning_rate': [0.1], 'max_depth': [16], 'n_estimators': [250], 'num_leaves': [20]}"
+25,emev,i_02cd,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.044,0.920,0.100,0.739,0.100,0.766,"{'learning_rate': [0.057], 'max_depth': [6], 'n_estimators': [380], 'num_leaves': [20]}"
+26,emev,i_12ch,ii_la,la_ff_final,iii_lgbm,0.042,0.925,0.100,0.789,0.100,0.760,"{'learning_rate': [0.09], 'max_depth': [8], 'n_estimators': [210], 'num_leaves': [20]}"
+27,emev,i_02cp,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.034,0.951,0.100,0.755,0.100,0.757,"{'learning_rate': [0.11], 'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [12], 'n_estimators': [300]}"
+28,emev,i_13cd,ii_la,la_ff_final,iii_lgbm,0.040,0.933,0.100,0.754,0.100,0.755,"{'learning_rate': [0.072], 'max_depth': [14], 'n_estimators': [240], 'num_leaves': [20]}"
+29,emev,i_12cd,ii_random,des_random_7,iii_lgbm,0.046,0.910,0.100,0.711,0.100,0.749,"{'learning_rate': [0.099], 'max_depth': [14], 'n_estimators': [350], 'num_leaves': [20]}"
+30,emev,i_01a,ii_random,des_random_0,iii_gbrt,0.000,1.000,0.100,0.720,0.100,0.748,"{'learning_rate': [0.064], 'max_depth': [6], 'max_features': [60], 'max_leaf_nodes': [10], 'n_estimators': [1810]}"
+31,emev,i_11ch,ii_la,la_ff_final,iii_lgbm,0.046,0.910,0.100,0.705,0.100,0.748,"{'learning_rate': [0.087], 'max_depth': [14], 'n_estimators': [250], 'num_leaves': [20]}"
+32,emev,i_11cg,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.048,0.903,0.100,0.643,0.100,0.733,"{'learning_rate': [0.14], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [12], 'n_estimators': [290]}"
+33,emev,i_11cd,ii_la,la_ff_final,iii_gbrt,0.062,0.839,0.100,0.625,0.100,0.732,"{'learning_rate': [0.098], 'max_depth': [6], 'max_features': [26], 'max_leaf_nodes': [6], 'n_estimators': [300]}"
+34,emev,i_02ch,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.035,0.947,0.100,0.730,0.100,0.721,"{'learning_rate': [0.08], 'max_depth': [12], 'n_estimators': [290], 'num_leaves': [20]}"
+35,emev,i_10cl,ii_random,des_random_2,iii_gbrt,0.061,0.842,0.100,0.702,0.100,0.718,"{'learning_rate': [0.14], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [6], 'n_estimators': [720]}"
+36,emev,i_11cp,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.061,0.846,0.100,0.656,0.100,0.669,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [8], 'n_estimators': [280]}"
+37,emev,i_10ch,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.065,0.825,0.100,0.640,0.100,0.657,"{'learning_rate': [0.079], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [8], 'n_estimators': [410]}"
+38,emev,i_10a,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.070,0.793,0.100,0.676,0.100,0.638,"{'learning_rate': [0.11], 'max_depth': [4], 'max_features': [5], 'max_leaf_nodes': [8], 'n_estimators': [210]}"
+39,emev,i_10cn,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.083,0.710,0.100,0.561,0.100,0.635,"{'learning_rate': [0.12], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [6], 'n_estimators': [160]}"
+40,emev,i_10cd,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.073,0.773,0.100,0.570,0.100,0.622,"{'learning_rate': [0.093], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [8], 'n_estimators': [250]}"
+41,emev,i_12s3l,ii_random,des_random_1,iii_lgbm,0.089,0.668,0.100,0.463,0.100,0.606,"{'learning_rate': [0.07], 'max_depth': [14], 'n_estimators': [360], 'num_leaves': [20]}"
+42,emev,i_02s3l,ii_random,des_random_6,iii_gbrt,0.084,0.702,0.100,0.480,0.100,0.598,"{'learning_rate': [0.096], 'max_depth': [8], 'max_features': [25], 'max_leaf_nodes': [26], 'n_estimators': [180]}"
+43,emev,i_13s3l,ii_random,des_random_4,iii_lgbm,0.088,0.674,0.100,0.456,0.100,0.597,"{'learning_rate': [0.083], 'max_depth': [14], 'n_estimators': [460], 'num_leaves': [20]}"
+44,emev,i_10cg,ii_rf,rf_ff_final,iii_gbrt,0.073,0.777,0.100,0.551,0.100,0.583,"{'learning_rate': [0.073], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [12], 'n_estimators': [280]}"
+45,emev,i_01s3l,ii_corr,30,iii_gbrt,0.084,0.704,0.100,0.480,0.100,0.577,"{'learning_rate': [0.086], 'max_depth': [6], 'max_features': [25], 'max_leaf_nodes': [14], 'n_estimators': [190]}"
+46,emev,i_11s3l,ii_la,la_ff_final,iii_rf,0.090,0.660,0.100,0.444,0.100,0.568,"{'max_depth': [18], 'max_features': [35], 'max_leaf_nodes': [50], 'n_estimators': [920]}"
+47,emev,i_02s3g,ii_rf,rf_ff_final,iii_gbrt,0.091,0.649,0.100,0.446,0.100,0.565,"{'learning_rate': [0.16], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [20], 'n_estimators': [80]}"
+48,emev,i_12s3g,ii_corr,30,iii_gbrt,0.088,0.671,0.100,0.464,0.100,0.549,"{'learning_rate': [0.1], 'max_depth': [10], 'max_features': [20], 'max_leaf_nodes': [40], 'n_estimators': [890]}"
+49,emev,i_13s3g,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.086,0.686,0.100,0.410,0.100,0.548,"{'learning_rate': [0.081], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [14], 'n_estimators': [680]}"
+50,emev,i_10cp,ii_la,la_ff_final,iii_gbrt,0.087,0.683,0.100,0.551,0.100,0.539,"{'learning_rate': [0.087], 'max_depth': [4], 'max_features': [27], 'max_leaf_nodes': [6], 'n_estimators': [180]}"
+51,emev,i_01s3g,ii_random,des_random_0,iii_gbrt,0.083,0.707,0.100,0.425,0.100,0.528,"{'learning_rate': [0.077], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [44], 'n_estimators': [110]}"
+52,emev,i_02s3p,ii_la,la_ff_final,iii_gbrt,0.095,0.618,0.100,0.559,0.100,0.526,"{'learning_rate': [0.1], 'max_depth': [4], 'max_features': [30], 'max_leaf_nodes': [8], 'n_estimators': [300]}"
+53,emev,i_02s1l,ii_corr,25,iii_lgbm,0.091,0.652,0.100,0.518,0.100,0.523,"{'learning_rate': [0.23], 'max_depth': [4], 'n_estimators': [580], 'num_leaves': [20]}"
+54,emev,i_01s1h,ii_corr,30,iii_gbrt,0.078,0.746,0.100,0.500,0.100,0.517,"{'learning_rate': [0.039], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [14], 'n_estimators': [220]}"
+55,emev,i_01s1l,ii_corr,40,iii_lgbm,0.071,0.788,0.100,0.445,0.100,0.517,"{'learning_rate': [0.083], 'max_depth': [12], 'n_estimators': [70], 'num_leaves': [20]}"
+56,emev,i_13s1h,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.086,0.686,0.100,0.514,0.100,0.508,"{'learning_rate': [0.096], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [6], 'n_estimators': [240]}"
+57,emev,i_02s1h,ii_corr,40,iii_gbrt,0.092,0.641,0.100,0.454,0.100,0.508,"{'learning_rate': [0.14], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [130]}"
+58,emev,i_01s3p,ii_random,des_random_7,iii_gbrt,0.089,0.667,0.100,0.474,0.100,0.502,"{'learning_rate': [0.12], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [10], 'n_estimators': [2110]}"
+59,emev,i_13s1l,ii_random,des_random_3,iii_gbrt,0.093,0.637,0.100,0.485,0.100,0.500,"{'learning_rate': [0.096], 'max_depth': [4], 'max_features': [5], 'max_leaf_nodes': [10], 'n_estimators': [150]}"
+60,emev,i_12s1h,ii_random,des_random_6,iii_lgbm,0.098,0.600,0.100,0.487,0.100,0.499,"{'learning_rate': [0.08], 'max_depth': [8], 'n_estimators': [110], 'num_leaves': [20]}"
+61,emev,i_13s3p,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.100,0.584,0.100,0.475,0.100,0.490,"{'learning_rate': [0.11], 'max_depth': [16], 'n_estimators': [120], 'num_leaves': [20]}"
+62,emev,i_12s3p,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.100,0.580,0.100,0.487,0.100,0.484,"{'learning_rate': [0.076], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [8], 'n_estimators': [130]}"
+63,emev,i_12s1l,ii_random,des_random_9,iii_gbrt,0.096,0.611,0.100,0.482,0.100,0.476,"{'learning_rate': [0.1], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [10], 'n_estimators': [120]}"
+64,emev,i_01s1d,ii_la,la_ff_final,iii_lgbm,0.064,0.826,0.100,0.478,0.100,0.472,"{'learning_rate': [0.15], 'max_depth': [8], 'n_estimators': [60], 'num_leaves': [20]}"
+65,emev,i_01s1g,ii_random,des_random_9,iii_lgbm,0.075,0.762,0.100,0.333,0.100,0.461,"{'learning_rate': [0.07], 'max_depth': [14], 'n_estimators': [100], 'num_leaves': [20]}"
+66,emev,i_11s3g,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.103,0.554,0.100,0.341,0.100,0.454,"{'learning_rate': [0.11], 'max_depth': [8], 'n_estimators': [140], 'num_leaves': [20]}"
+67,emev,i_12s3h,ii_corr,35,iii_gbrt,0.100,0.576,0.100,0.438,0.100,0.450,"{'learning_rate': [0.15], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [14], 'n_estimators': [140]}"
+68,emev,i_11s1l,ii_random,des_random_2,iii_gbrt,0.099,0.586,0.100,0.461,0.100,0.446,"{'learning_rate': [0.13], 'max_depth': [6], 'max_features': [18], 'max_leaf_nodes': [6], 'n_estimators': [200]}"
+69,emev,i_11s3h,ii_corr,20,iii_gbrt,0.107,0.519,0.100,0.392,0.100,0.444,"{'learning_rate': [0.1], 'max_depth': [4], 'max_features': [16], 'max_leaf_nodes': [8], 'n_estimators': [210]}"
+70,emev,i_02s3h,ii_random,des_random_1,iii_gbrt,0.098,0.595,0.100,0.459,0.100,0.436,"{'learning_rate': [0.22], 'max_depth': [4], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [200]}"
+71,emev,i_11s3p,ii_random,des_random_9,iii_gbrt,0.108,0.509,0.100,0.341,0.100,0.434,"{'learning_rate': [0.089], 'max_depth': [4], 'max_features': [15], 'max_leaf_nodes': [8], 'n_estimators': [170]}"
+72,emev,i_13s3h,ii_random,des_random_5,iii_rf,0.102,0.563,0.100,0.450,0.100,0.434,"{'max_depth': [16], 'max_features': [15], 'max_leaf_nodes': [50], 'n_estimators': [1860]}"
+73,emev,i_01s3h,ii_random,des_random_7,iii_lgbm,0.097,0.602,0.100,0.434,0.100,0.415,"{'learning_rate': [0.23], 'max_depth': [10], 'n_estimators': [880], 'num_leaves': [20]}"
+74,emev,i_02s1p,ii_la,la_ff_final,iii_gbrt,0.099,0.592,0.100,0.323,0.100,0.415,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [8], 'n_estimators': [220]}"
+75,emev,i_13s1p,ii_la,la_ff_final,iii_gbrt,0.094,0.628,0.100,0.326,0.100,0.410,"{'learning_rate': [0.069], 'max_depth': [8], 'max_features': [15], 'max_leaf_nodes': [14], 'n_estimators': [200]}"
+76,emev,i_11s1h,ii_random,des_random_3,iii_gbrt,0.101,0.575,0.100,0.424,0.100,0.404,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [18], 'max_leaf_nodes': [6], 'n_estimators': [160]}"
+77,emev,i_12s1p,ii_rf,rf_ff_final,iii_gbrt,0.097,0.606,0.100,0.297,0.100,0.387,"{'learning_rate': [0.09], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [8], 'n_estimators': [230]}"
+78,emev,i_01s1p,ii_random,des_random_8,iii_gbrt,0.091,0.654,0.100,0.320,0.100,0.386,"{'learning_rate': [0.094], 'max_depth': [6], 'max_features': [5], 'max_leaf_nodes': [10], 'n_estimators': [250]}"
+79,emev,i_10s3g,ii_random,des_random_less10,iii_rf,0.119,0.408,0.100,0.319,0.100,0.385,"{'max_depth': [10], 'max_features': [10], 'max_leaf_nodes': [22], 'n_estimators': [1520]}"
+80,emev,i_02s1g,ii_random,des_random_5,iii_gbrt,0.115,0.442,0.100,0.321,0.100,0.375,"{'learning_rate': [0.1], 'max_depth': [6], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [100]}"
+81,emev,i_02s1d,ii_random,des_random_9,iii_gbrt,0.110,0.494,0.100,0.389,0.100,0.373,"{'learning_rate': [0.1], 'max_depth': [4], 'max_features': [12], 'max_leaf_nodes': [6], 'n_estimators': [370]}"
+82,emev,i_13s1g,ii_rf,rf_ff_final,iii_rf,0.110,0.496,0.100,0.309,0.100,0.366,"{'max_depth': [12], 'max_features': [15], 'max_leaf_nodes': [50], 'n_estimators': [1580]}"
+83,emev,i_02s3d,ii_corr,25,iii_lgbm,0.106,0.528,0.100,0.397,0.100,0.364,"{'learning_rate': [0.092], 'max_depth': [10], 'n_estimators': [160], 'num_leaves': [20]}"
+84,emev,i_12s1d,ii_rf,rf_ff_final,iii_gbrt,0.113,0.460,0.100,0.387,0.100,0.356,"{'learning_rate': [0.11], 'max_depth': [6], 'max_features': [8], 'max_leaf_nodes': [8], 'n_estimators': [170]}"
+85,emev,i_01s3d,ii_random,des_random_9,iii_svm_rbf,0.110,0.491,0.100,0.281,0.100,0.352,{'gamma': [0.048]}
+86,emev,i_12s1g,ii_mlr,mlr_ff_multifinal,iii_lgbm,0.119,0.409,0.100,0.319,0.100,0.350,"{'learning_rate': [0.09], 'max_depth': [10], 'n_estimators': [90], 'num_leaves': [20]}"
+87,emev,i_10s3l,ii_mlr,mlr_ff_multifinal,iii_rf,0.122,0.376,0.100,0.220,0.100,0.340,"{'max_depth': [8], 'max_features': [13], 'max_leaf_nodes': [24], 'n_estimators': [2050]}"
+88,emev,i_13s3d,ii_random,des_random_5,iii_gbrt,0.111,0.483,0.100,0.282,0.100,0.324,"{'learning_rate': [0.091], 'max_depth': [6], 'max_features': [21], 'max_leaf_nodes': [6], 'n_estimators': [130]}"
+89,emev,i_12s3d,ii_random,des_random_9,iii_gbrt,0.111,0.479,0.100,0.308,0.100,0.317,"{'learning_rate': [0.067], 'max_depth': [6], 'max_features': [21], 'max_leaf_nodes': [6], 'n_estimators': [190]}"
+90,emev,i_10s3d,ii_random,des_random_4,iii_lgbm,0.123,0.360,0.100,0.224,0.100,0.307,"{'learning_rate': [0.11], 'max_depth': [10], 'n_estimators': [390], 'num_leaves': [20]}"
+91,emev,i_01s2l,ii_random,des_random_6,iii_lgbm,0.123,0.366,0.100,0.225,0.100,0.306,"{'learning_rate': [0.095], 'max_depth': [10], 'n_estimators': [130], 'num_leaves': [20]}"
+92,emev,i_11s1p,ii_random,des_random_6,iii_gbrt,0.112,0.469,0.100,0.189,0.100,0.304,"{'learning_rate': [0.084], 'max_depth': [6], 'max_features': [13], 'max_leaf_nodes': [6], 'n_estimators': [200]}"
+93,emev,i_11s3d,ii_random,des_random_0,iii_rf,0.113,0.462,0.100,0.259,0.100,0.300,"{'max_depth': [8], 'max_features': [15], 'max_leaf_nodes': [50], 'n_estimators': [1210]}"
+94,emev,i_10s3p,ii_random,des_random_less10,iii_lgbm,0.130,0.294,0.100,0.250,0.100,0.300,"{'learning_rate': [0.084], 'max_depth': [4], 'n_estimators': [80], 'num_leaves': [20]}"
+95,emev,i_13s1d,ii_rf,rf_ff_final,iii_gbrt,0.122,0.376,0.100,0.316,0.100,0.295,"{'learning_rate': [0.079], 'max_depth': [6], 'max_features': [15], 'max_leaf_nodes': [6], 'n_estimators': [80]}"
+96,emev,i_11s1g,ii_random,des_random_less10,iii_gbrt,0.128,0.315,0.100,0.247,0.100,0.293,"{'learning_rate': [0.12], 'max_depth': [4], 'max_features': [8], 'max_leaf_nodes': [4], 'n_estimators': [70]}"
+97,emev,i_11s2l,ii_random,des_random_9,iii_svm_rbf,0.132,0.263,0.100,0.214,0.100,0.275,{'gamma': [0.019]}
+98,emev,i_11s2p,ii_random,des_random_9,iii_svm_rbf,0.132,0.263,0.100,0.214,0.100,0.275,{'gamma': [0.019]}
+99,emev,i_11s2h,ii_random,des_random_9,iii_svm_rbf,0.132,0.263,0.100,0.214,0.100,0.275,{'gamma': [0.019]}
+100,emev,i_11s2g,ii_random,des_random_9,iii_svm_rbf,0.132,0.263,0.100,0.214,0.100,0.275,{'gamma': [0.019]}
+101,emev,i_11s2d,ii_random,des_random_9,iii_svm_rbf,0.132,0.263,0.100,0.214,0.100,0.275,{'gamma': [0.019]}
+102,emev,i_10s2l,ii_rf,rf_ff_final,iii_svm_rbf,0.134,0.244,0.100,0.191,0.100,0.273,{'gamma': [8.6]}
+103,emev,i_10s2p,ii_rf,rf_ff_final,iii_svm_rbf,0.134,0.244,0.100,0.191,0.100,0.273,{'gamma': [8.6]}
+104,emev,i_10s2h,ii_rf,rf_ff_final,iii_svm_rbf,0.134,0.244,0.100,0.191,0.100,0.273,{'gamma': [8.6]}
+105,emev,i_10s2g,ii_rf,rf_ff_final,iii_svm_rbf,0.134,0.244,0.100,0.191,0.100,0.273,{'gamma': [8.6]}
+106,emev,i_10s2d,ii_rf,rf_ff_final,iii_svm_rbf,0.134,0.244,0.100,0.191,0.100,0.273,{'gamma': [8.6]}
+107,emev,i_02s2l,ii_random,des_random_2,iii_svm_rbf,0.134,0.249,0.100,0.195,0.100,0.272,{'gamma': [0.00029]}
+108,emev,i_02s2p,ii_random,des_random_2,iii_svm_rbf,0.134,0.249,0.100,0.195,0.100,0.272,{'gamma': [0.00029]}
+109,emev,i_02s2h,ii_random,des_random_2,iii_svm_rbf,0.134,0.249,0.100,0.195,0.100,0.272,{'gamma': [0.00029]}
+110,emev,i_02s2g,ii_random,des_random_2,iii_svm_rbf,0.134,0.249,0.100,0.195,0.100,0.272,{'gamma': [0.00029]}
+111,emev,i_02s2d,ii_random,des_random_2,iii_svm_rbf,0.134,0.249,0.100,0.195,0.100,0.272,{'gamma': [0.00029]}
+112,emev,i_01s2g,ii_random,des_random_1,iii_lgbm,0.126,0.335,0.100,0.208,0.100,0.268,"{'learning_rate': [0.065], 'max_depth': [8], 'n_estimators': [40], 'num_leaves': [20]}"
+113,emev,i_01s2h,ii_random,des_random_5,iii_lgbm,0.121,0.382,0.100,0.217,0.100,0.264,"{'learning_rate': [0.1], 'max_depth': [12], 'n_estimators': [130], 'num_leaves': [20]}"
+114,emev,i_13s2l,ii_random,des_random_8,iii_rf,0.131,0.274,0.100,0.204,0.100,0.263,"{'max_depth': [8], 'max_features': [18], 'max_leaf_nodes': [8], 'n_estimators': [20]}"
+115,emev,i_13s2p,ii_random,des_random_8,iii_rf,0.131,0.274,0.100,0.204,0.100,0.263,"{'max_depth': [8], 'max_features': [18], 'max_leaf_nodes': [8], 'n_estimators': [20]}"
+116,emev,i_13s2h,ii_random,des_random_8,iii_rf,0.131,0.274,0.100,0.204,0.100,0.263,"{'max_depth': [8], 'max_features': [18], 'max_leaf_nodes': [8], 'n_estimators': [20]}"
+117,emev,i_13s2g,ii_random,des_random_8,iii_rf,0.131,0.274,0.100,0.204,0.100,0.263,"{'max_depth': [8], 'max_features': [18], 'max_leaf_nodes': [8], 'n_estimators': [20]}"
+118,emev,i_13s2d,ii_random,des_random_8,iii_rf,0.131,0.274,0.100,0.204,0.100,0.263,"{'max_depth': [8], 'max_features': [18], 'max_leaf_nodes': [8], 'n_estimators': [20]}"
+119,emev,i_12s2l,ii_random,des_random_9,iii_la,0.132,0.270,0.100,0.209,0.100,0.261,{'alpha': [0.0018]}
+120,emev,i_12s2p,ii_random,des_random_9,iii_la,0.132,0.270,0.100,0.209,0.100,0.261,{'alpha': [0.0018]}
+121,emev,i_12s2h,ii_random,des_random_9,iii_la,0.132,0.270,0.100,0.209,0.100,0.261,{'alpha': [0.0018]}
+122,emev,i_12s2g,ii_random,des_random_9,iii_la,0.132,0.270,0.100,0.209,0.100,0.261,{'alpha': [0.0018]}
+123,emev,i_12s2d,ii_random,des_random_9,iii_la,0.132,0.270,0.100,0.209,0.100,0.261,{'alpha': [0.0018]}
+124,emev,i_01s2p,ii_corr,10,iii_rf,0.131,0.280,0.100,0.187,0.100,0.250,"{'max_depth': [10], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [20]}"
+125,emev,i_01s2d,ii_corr,10,iii_rf,0.131,0.280,0.100,0.187,0.100,0.250,"{'max_depth': [10], 'max_features': [10], 'max_leaf_nodes': [6], 'n_estimators': [20]}"
+126,emev,i_10s1l,ii_la,la_ff_final,iii_svm_rbf,0.131,0.276,0.100,0.213,0.100,0.241,{'gamma': [0.046]}
+127,emev,i_10s1h,ii_la,la_ff_final,iii_svm_rbf,0.133,0.260,0.100,0.212,0.100,0.236,{'gamma': [0.11]}
+128,emev,i_10s3h,ii_mlr,mlr_ff_multifinal,iii_gbrt,0.125,0.340,0.100,0.246,0.100,0.234,"{'learning_rate': [0.063], 'max_depth': [6], 'max_features': [19], 'max_leaf_nodes': [10], 'n_estimators': [50]}"
+129,emev,i_11s1d,ii_rf,rf_ff_final,iii_svm_rbf,0.136,0.220,0.100,0.188,0.100,0.203,{'gamma': [0.015]}
+130,emev,i_10s1p,ii_random,des_random_less10,iii_rf,0.128,0.316,0.100,0.187,0.100,0.195,"{'max_depth': [6], 'max_features': [9], 'max_leaf_nodes': [24], 'n_estimators': [1120]}"
+131,emev,i_10s1g,ii_random,des_random_less10,iii_rf,0.135,0.230,0.100,0.218,0.100,0.184,"{'max_depth': [8], 'max_features': [6], 'max_leaf_nodes': [10], 'n_estimators': [700]}"
+132,emev,i_10s1d,ii_la,rf_ff_less5,iii_rf,0.147,0.089,0.100,0.107,0.100,0.064,"{'max_depth': [4], 'max_features': [4], 'max_leaf_nodes': [14], 'n_estimators': [20]}"
