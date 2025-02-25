@@ -73,5 +73,5 @@ Likewise, file **slf_emlb_oa2n_tro_ijsd3re_gen.py** generates configure files fo
 
 
 
-### copyright and citation
+## 6 copyright and citation
 + This work is registered as a software with the code **2024SR0831144**
