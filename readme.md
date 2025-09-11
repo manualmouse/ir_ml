@@ -75,3 +75,4 @@ Likewise, file **slf_emlb_oa2n_tro_ijsd3re_gen.py** generates configure files fo
 
 ## 6 copyright and citation
 + This work is registered as a software with the code **2024SR0831144**
++ The paper is published: *J. Photoch. Photobio. A*, **2025**, 466, 116374. DOI: 10.1016/j.jphotochem.2025.116374
